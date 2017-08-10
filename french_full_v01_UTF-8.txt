@@ -1,0 +1,5460 @@
+﻿6 et and
+9 que that, which, who, whom
+30 mais but
+32 comme like, as
+33 ou or
+34 si if, whether
+44 aussi too, also, as
+119 quand when
+145 donc so, then, therefore, thus
+166 soit either…or
+176 car because
+193 pourquoi why
+229 ni nor
+234 comment how
+256 lorsque when
+300 or now
+352 cependant however
+528 puisque since
+770 toutefois however
+800 combien how much, how many
+1170 sinon otherwise, or else
+1271 néanmoins nevertheless
+3243 quoique although, though
+Determiners
+1 le the
+2 de some, any
+3 un a, an, one
+12 ce this, that
+24 tout all, very
+26 son his, her, its
+28 autre other
+35 leur them, their, theirs
+41 deux two
+56 premier first
+60 mon my
+63 aucun none, either, neither, not any
+70 quelque some
+73 notre our
+110 certain certain
+115 trois three
+142 tel such
+146 quel which, what
+151 chaque each
+213 plusieurs several
+214 votre your
+253 quatre four
+288 cinq five
+330 ton your
+372 dix ten
+379 second second
+427 deuxième second
+450 six six
+506 troisième third
+704 cent one hundred
+752 divers diverse, various
+787 neuf nine
+801 nul nil, null
+877 huit eight
+905 sept seven
+1008 mille a thousand
+1273 vingt twenty
+1472 quinze fifteen
+1542 seconde second
+1603 quatrième fourth
+1646 trente thirty
+1664 douze twelve
+2030 cinquième fifth
+2273 cinquante fifty
+2436 quarante forty
+2447 onze eleven
+3124 sixième sixth
+3151 soixante sixty
+3245 treize thirteen
+3285 seize sixteen
+3359 quatorze fourteen
+3592 dix-huit eighteen
+3812 dix-sept seventeen
+3881 vingtième twentieth
+3997 dix-neuvième nineteenth
+4028 septième seventh
+4149 vingt-quatre twenty four
+4436 vingt-cinq twenty five
+4602 dixième tenth
+4778 huitième eighth
+4851 dix-neuf nineteen
+4887 soixante-dix seventy
+Interjections
+30 mais but
+75 non no
+94 bon good
+109 là there, here
+234 comment how
+284 oui yes
+736 d'accord okay, alright
+889 euh er, um, uh
+1070 merci thank you
+1361 oh oh
+1405 ah ah, oh
+1692 eh hey, uh
+1928 ouais yeah
+1979 bonjour hello
+2076 hein eh, huh
+2205 salut hi, bye
+2262 dieu god
+2376 merde sh*t, crap
+2581 gare look out!
+3570 mince rats!
+3722 tiens ah, well
+3871 hé hey
+3952 hélas alas
+3968 adieu goodbye, farewell, adieu
+3984 diable devil
+4564 bravo bravo, well done
+4938 hum um, uh
+4965 ha oh
+Prepositions
+2 de of, from, some, any
+4 à to, at, in
+7 en in, by
+10 pour for, in order to
+11 dans in, into, from
+16 sur on, upon
+21 par by
+23 avec with
+40 avant before
+55 entre between
+62 moins less
+71 sans without
+82 après after
+89 pendant during
+96 depuis since, for
+121 contre against
+122 sous under
+134 jusque to, up to, until
+182 vers toward
+185 dès from, as soon
+198 devant in front, ahead
+206 chez at, with
+225 près near, nearby, close by
+240 selon according to
+389 parmi among
+394 plein full
+406 malgré despite, in spite of
+476 sauf except
+501 passé past
+524 voilà right, there, here
+678 environ about, thereabouts, or so
+795 durant during, for
+805 derrière behind
+838 proche nearby, close
+865 hors except, outside
+974 outre besides
+1103 voici here is, here are, this is, these are
+1121 suivant following
+1151 envers towards
+1217 dehors outside
+1376 vis-à-vis face to face, regarding
+1629 dessus above, on top
+2628 dessous underneath, below, bottom, underside
+3058 dedans inside, indoors
+3090 touchant with regard to, concerning, touching, moving
+3513 via via
+4786 hormis save, but
+Pronouns
+1 le him, her, it, them
+3 un a, an, one
+7 en in, by
+9 que that, which, who, whom
+12 ce this, that
+13 il he, it
+14 qui who, whom
+17 se oneself, himself, herself, itself, themselves
+22 je I
+24 tout all
+28 autre other
+29 on one, we
+31 nous we, us
+35 leur them, their, theirs
+36 y there
+38 elle she, her
+42 même same, even, self
+45 celui that, the one, he, him
+48 où where
+50 vous you
+54 cela that, it
+61 me me, to me, myself
+63 aucun none, either, neither, not any
+64 lui him, her
+74 dont whose, of which
+84 personne person, people, anybody, anyone, nobody
+92 lequel who, whom, which
+110 certain certain, sure
+112 tu you
+131 moi me
+142 tel such
+146 quel which, what
+161 eux them
+168 rien nothing
+207 te you, to you, from you
+213 plusieurs several
+247 ci this one, here
+297 quoi what
+323 chacun each
+510 toi you, yourself
+522 lui-même himself
+732 ceci this
+772 quelqu'un somebody, someone
+801 nul nil, null
+1365 soi one, oneself, self
+1379 elle-même herself, itself
+1527 moi-même myself
+2165 mien mine
+2514 quelques-uns some, a few
+3222 quiconque whoever, anyone who
+3511 nous-mêmes ourselves
+3940 autrui others
+Adjectives
+3 un a, an, one
+16 sur on, upon
+35 leur them, their, theirs
+40 avant before
+42 même same, even, self
+47 bien well
+52 nouveau new
+62 moins less
+63 aucun none, either, neither, not any
+70 quelque some
+89 pendant during
+94 bon good
+101 seul alone, only
+107 fort strong
+110 certain certain, sure
+111 fin fine
+126 enfant child
+141 fait done, fact
+142 tel such
+143 droit right
+146 quel which, what
+151 chaque each
+175 possible possible
+186 moyen medium
+213 plusieurs several
+217 mieux better
+270 sûr sure
+276 mort dead
+277 mal bad
+314 courant current
+344 libre free
+350 différent different
+366 nombreux numerous
+379 second second
+392 ancien ancient;
+former
+393 beau handsome, fine, right
+402 unique unique
+422 prêt ready
+476 sauf safe
+513 tôt early
+518 objectif objective
+545 court short
+549 mondial world, global
+554 publique public
+555 faux false
+584 actuel current, present
+600 bref brief
+610 capable able, capable
+618 large wide, width
+654 véritable real, true
+663 énorme enormous
+671 vieux old
+691 frais cool, fresh
+708 blanc white
+713 dangereux dangerous
+726 spécial special
+752 divers diverse, various
+769 instant instant, moment
+786 feu fire
+787 neuf new
+801 nul nil, null
+803 cher expensive
+822 facile easy
+833 normal normal
+893 honorable honorable, worthy
+897 ouvert open
+942 franc frank
+965 complet full, complete
+1003 utile useful
+1024 ferme firm
+1026 lourd heavy
+1039 échec failure
+1090 nord north
+1105 moindre lesser, least, slightest
+1117 demi half
+1130 nucléaire nuclear
+1133 exact exact, correct
+1142 vaste vast, immense
+1155 global global
+1178 récent recent
+1205 disponible available
+1216 bleu blue
+1225 excellent excellent
+1233 rare rare
+1234 extraordinaire extraordinary
+1242 sud south
+1243 efficace efficient, effective
+1244 intéressant interesting
+1267 supplémentaire additional
+1291 fondamental fundamental
+1310 terrible terrible, dreadful
+1321 léger light
+1322 permanent permanent
+1331 fier proud
+1347 habituel customary, habitual
+1357 fou mad, crazy
+1367 net clear
+1380 démocratique democratic
+1443 favorable favorable
+1488 évident obvious
+1495 culturel cultural
+1504 arrière back, rear
+1511 considérable considerable, significant
+1526 radio radio
+1529 prudent prudent, careful, cautious
+1537 suffisant sufficient
+1540 modeste modest
+1564 conscient conscious, aware
+1566 médical medical
+1574 traditionnel traditional
+1594 sexuel sexual
+1597 âgé old
+1622 familial family
+1625 armé armed
+1637 fiscal fiscal
+1665 juridique legal, judicial
+1684 annuel annual
+1689 célèbre famous
+1690 ouest west
+1714 électoral electoral
+1733 sévère severe
+1739 monétaire monetary
+1746 indispensable essential
+1759 immense immense
+1762 constant constant
+1763 sain healthy, sane
+1765 aérien aerial
+1770 régulier regular
+1793 agricole agricultural, farming
+1801 uniforme uniform, steady, regular
+1811 communautaire community, communal
+1812 individuel individual
+1827 susceptible sensitive, touchy
+1828 étroit narrow, tight
+1841 content glad, pleased, happy
+1843 triste sad
+1855 judiciaire judiciary
+1859 strict strict, absolute
+1885 incident incident
+1908 gouvernemental governmental
+1934 quelconque any, some
+1985 durable durable, long-lasting
+1993 scolaire school, educational, academic
+1996 budgétaire budgetary
+1997 inquiétant worrying, disturbing
+2011 sport sport
+2015 généreux generous
+2021 raisonnable reasonable, fair
+2040 remarquable remarkable, outstanding
+2044 issu descended from
+2052 censé supposed
+2060 fameux famous
+2067 électrique electric
+2075 provisoire temporary, provisional
+2099 alimentaire food
+2107 fragile fragile, delicate, frail
+2136 magnifique magnificent
+2137 initial initial
+2143 pair peer, pair, even
+2166 drôle funny, strange
+2167 plat dish, flat
+2175 spécifique specific
+2179 urgent urgent
+2181 stratégique strategic
+2186 probable probable, likely
+2202 fondé founded, justified
+2204 municipal municipal
+2209 merveilleux marvellous, wonderful
+2215 urbain urban
+2226 enceinte pregnant
+2238 présidentiel presidential
+2241 suisse Swiss
+2247 légal legal, lawful
+2270 intense intense, severe, dense
+2276 visible visible, obvious
+2290 royal royal
+2292 significatif significative
+2310 soudain sudden, suddenly
+2313 sec dry
+2319 humanitaire humanitarian
+2348 sombre dark
+2356 téléphonique telephone
+2373 numérique numerical
+2374 combattant fighter
+2382 désert desert, wilderness
+2388 continent continent
+2391 digne dignified, worthy
+2398 joli pretty, attractive
+2405 honnête honest, decent, fair
+2406 tournant revolving, swivel, encircling, bend, turning point
+2467 impressionnant impressive, upsetting
+2470 gratuit free, gratuitous, unwarranted
+2473 insuffisant insufficient, inadequate
+2488 inévitable unavoidable, inevitable
+2505 formel formal, definite
+2509 intelligent intelligent, clever, bright
+2517 stable stable
+2522 terrestre land, earth
+2524 obligatoire mandatory, compulsory
+2528 vital vital
+2531 conforme conform
+2533 ultime ultimate
+2539 complémentaire complementary, supplementary
+2540 satisfaisant satisfactory, satisfying
+2543 douloureux painful, grievous, distressing
+2550 psychologique psychological
+2554 respectif respective
+2555 tranquille quiet
+2569 brillant brilliant
+2572 lent slow
+2575 injuste unfair, unjust
+2586 existant existing
+2590 pacifique peaceful, peace-loving
+2595 maritime maritime
+2600 technologique technological
+2603 décevant disappointing
+2608 acceptable acceptable, satisfactory
+2611 vidéo video
+2617 correct correct
+2632 similaire similar
+2635 discret discreet, tactful, quiet
+2640 illégal illegal
+2642 mutuel mutual
+2650 chimique chemical
+2657 atomique atomic
+2663 inacceptable unacceptabe
+2664 progressif progressive
+2668 valable valid
+2677 identique identical
+2682 rigoureux rigorous, harsh, strict
+2684 fréquent frequent
+2698 distinct distinct
+2722 formidable tremendous, considerable
+2733 inhabituel unusual
+2738 contradictoire contradictory, conflicting
+2765 spatial spatial, space
+2768 vache cow
+2780 serbe Serbian
+2781 biologique biological, nature
+2785 neutre neutral
+2792 maternel motherly, maternal
+2800 automatique automatic
+2850 attentif attentive, scrupulous, careful
+2857 artificiel artificial
+2867 décisif decisive
+2875 mixte mixed
+2885 temporaire temporary
+2890 crucial crucial, critical
+2891 marine marine, navy
+2895 mécanique mechanical
+2929 boulot work, job
+2942 pénal penal
+2945 bancaire banking
+2951 surprenant surprising
+2968 dominant dominant, prevailing
+2971 vain vain
+2982 élémentaire elementary, rudimentary, basic
+2993 super great
+2995 syndical (trade-) union
+3016 comparable comparable
+3018 structurel structural
+3026 opérationnel operational, operating
+3034 ministériel ministerial
+3050 unanime unanimous
+3056 accessible accessible, approachable
+3074 islamique Islamic
+3084 annexe annex, appendix, related issue
+3087 souple supple, agile, soft, floppy, flexible
+3090 touchant with regard to, concerning, touching, moving
+3091 hostile hostile
+3118 francophone French-speaking, French speaker, francophone
+3129 anonyme anonymous
+3131 additionnel additional
+3134 turc Turk, Turkish
+3144 romain Roman
+3146 originaire original, first, native to
+3149 coûteux expensive, costly
+3158 manuel manual
+3160 territorial territorial, land
+3168 musical musical
+3180 sincère sincere
+3182 maximal maximal
+3190 horrible horrible, terrible, dreadful, hideous
+3196 homologue counterpart, homologue
+3197 successif successive
+3199 olympique Olympic
+3202 propice favorable, auspicious, propitious
+3211 restant remaining, the rest, the remainder
+3218 consécutif consecutive
+3220 institutionnel institutional
+3262 compétent competent
+3263 sable sand
+3271 cohérent coherent
+3276 substantiel substantial
+3303 applicable applicable
+3304 équitable equitable, fair
+3308 dépendant answerable, responsible, dependent
+3330 spectaculaire spectacular
+3344 exigeant demanding, difficult
+3348 pertinent pertinent, relevant
+3357 cruel cruel, ferocious, bitter
+3366 amical friendly
+3369 invisible invisible
+3383 reconnaissant grateful
+3385 inattendu unexpected
+3389 géographique geographic, geographical
+3407 stupide stupid, silly, bemused
+3408 surpris surprised, amazed
+3466 imminent imminent, impending
+3476 théorique theoretical
+3478 scandaleux scandalous, outrageous
+3479 vulnérable vulnerable
+3495 multinational multinational
+3518 préférable preferable
+3525 adéquat appropriate, suitable, adequate
+3530 magique magical
+3533 raide stiff, straight
+3535 artistique artistic
+3544 réussi successful
+3545 bilatéral bilateral
+3548 environnemental environmental
+3563 élevé high, heavy, tall
+3570 mince thin, slim, slender
+3586 soucieux concerned, worried
+3591 approprié appropriate
+3599 alerte agile, alert, warning
+3617 représentatif representative
+3625 postal postal, mail
+3637 soi-disant so-called, supposedly
+3639 salarial salary
+3652 minimal minimal, minimum
+3690 pénible hard, difficult, painful, tiresome
+3713 incompatible incompatible
+3744 primordial primordial, basic, vital, primary
+3753 fermé shut, closed, locked
+3761 confus confused, embarrassed
+3768 réputé famous, renowned
+3769 indirect indirect
+3770 apte capable
+3787 divin divine, heavenly
+3789 épais thick, pitch dark, thickly
+3798 explicite explicitly
+3803 apparent apparent, obvious
+3810 serré tight, packed, crowded
+3818 touristique holiday, tourist
+3819 obscur dark, vague, obscure
+3823 flou blurred, fuzzy, vague
+3825 consultatif advisory
+3838 précaire precarious, makeshift
+3845 crédible credible
+3862 ultérieur later, subsequent
+3872 génial inspired, great, brilliant
+3885 virtuel virtual, potential
+3899 prestigieux prestigious
+3908 accompli accomplished
+3912 orange orange
+3920 souhaitable desirable
+3925 flagrant blatant, glaring
+3930 subit sudden
+3946 transitoire transient, interim, provisional
+3947 tardif late
+3949 natal native, home
+3961 authentique genuine, authentic
+3964 confortable comfortable
+3966 fonctionnel functional
+3975 productif productive
+3986 spontané spontaneous
+3995 honteux ashamed, shameful
+4002 portable portable, wearable
+4003 précoce early, precocious
+4012 rassurant reassuring, comforting
+4018 gras fatty, fat, greasy
+4019 médiatique media
+4030 charmant charming
+4039 constructif constructive
+4050 convaincant convincing
+4054 grossier unrefined, crude, coarse, rude, rough
+4074 erroné erroneous
+4086 respectueux respectful
+4103 chaleureux warm
+4110 instable unstable
+4126 filial filial
+4147 fiable reliable, trustworthy
+4150 épouvantable terrible, appalling, dreadful
+4156 naval naval
+4173 compétitif competitive
+4179 concurrentiel competitive
+4200 encourageant encouraging
+4201 climatique climatic
+4206 écologique ecological
+4210 confidentiel confidential
+4214 aisé easy, well off, well-to-do
+4221 banal banal, trite, commonplace, ordinary
+4234 standard standard
+4237 irréversible irreversible
+4238 fatal fatal, deadly, fateful
+4240 verbal verbal
+4243 gai cheerful, merry, gay
+4272 idéologique ideological
+4277 majoritaire majority
+4281 catastrophique catastrophic, disastrous
+4287 enthousiaste enthusiastic
+4294 radioactif radioactive
+4311 minier mining
+4316 vocal vocal
+4317 unilatéral unilateral
+4324 rentable profitable
+4325 loyal loyal, faithful
+4341 négligeable negligible, trivial
+4345 subtil subtle, nice
+4350 gestionnaire administrative
+4351 redoutable fearsome, formidable
+4359 confiant trusting, confident
+4361 intact intact
+4365 vigoureux vigorous
+4374 philosophique philosophical
+4375 arrivé arrived
+4387 menaçant threatening, menacing
+4403 sanglant bloody, cruel, covered in blood
+4410 convenable suitable, appropriate, correct, proper, acceptable
+4415 alternatif alternate, alternating
+4418 réglementaire regulation, control, statutory
+4432 conjugal conjugal, married
+4433 pâle pale
+4457 ponctuel punctual
+4460 manuscrit manuscript, handwritten
+4463 immobile still, motionless
+4467 passionnant fascinating, exciting
+4481 controversé much debated, controversial
+4484 insupportable intolerable
+4485 opportun timely,
+4500 ironique ironic
+4513 prévisible predictable, forseeable
+4525 improbable unlikely, improbable
+4539 intergouvernemental intergovernmental
+4543 saisonnier seasonal
+4556 chocolat chocolate
+4559 grandissant growing, increasing
+4562 lumineux luminous, illuminated
+4588 innombrable innumerable, countless
+4592 désireux avid for, anxious to, desirous of
+4599 amer bitter
+4601 foncier land-related, land, fundamental
+4605 troublant disturbing
+4606 irrégulier irregular, uneven
+4616 expérimental experimental
+4628 décent decent, proper
+4629 éminent eminent, distinguished
+4641 intégral complete, unabridged
+4653 solaire solar
+4655 mou soft
+4661 autoritaire authoritarian
+4664 intolérable intolerable
+4666 préventif preventive
+4668 aimable pleasant, kind, nice
+4672 inhérent inherent
+4680 humble humble, lowly
+4684 appliqué assiduous, industrious, careful
+4688 néfaste harmful, ill-fated
+4701 inchangé unchanged
+4713 odieux hateful, odious
+4714 désastreux disastrous
+4721 plénier plenary, full
+4729 échéant if need be
+4740 superficiel superficial, shallow
+4741 rigide rigid, stiff
+4742 démographique demographic
+4747 élégant elegant, stylish
+4748 crème cream
+4752 organique organic
+4756 exclu outcast
+4758 bénéfique beneficial
+4770 regrettable unfortunate, regrettable
+4774 compréhensible comprehensible, understandable
+4781 notoire notorious, well-known
+4793 visuel visual
+4807 inexistant non-existent
+4819 incompréhensible incomprehensible
+4827 proportionnel proportional
+4833 doré golden
+4841 humide moist, damp, humid, wet
+4846 continental continental
+4863 sécuritaire safe
+4872 enclin enclined, prone
+4878 blindé armored
+4888 féroce ferocious, fierce
+4889 perpétuel perpetual, everlasting, never-ending
+4901 insensible insensitive
+4902 distant far-off, distant, faraway
+4905 énergique energetic
+4910 défavorable unfavorable
+4918 écrasant crushing, overwhelming
+4931 vigilant vigilant, watchful
+4934 réglé regular, steady, well-ordered, ruled
+4941 racial racial
+4946 viable viable, workable
+4949 atroce atrocious
+4950 civique civil
+4961 performant productive, efficient
+4978 insignifiant insignificant, unimportant
+4980 solidaire interdependent, jointly dependent
+4981 ferroviaire railway, rail
+4996 réfléchi thoughtful, well thought-out
+4999 exprès deliberately, on purpose, intentionally
+Adverbs
+15 ne not
+18 pas not, n't
+19 plus more, no more
+24 tout all, very
+30 mais but
+32 comme like, as
+34 si if, whether
+36 y there
+40 avant before
+42 même same, even, self
+44 aussi too, also, as
+47 bien well
+48 où where
+51 encore again, yet
+58 déjà already
+59 grand great, big, tall
+62 moins less
+66 très very
+70 quelque some
+75 non no, not
+81 alors then, so
+82 après after
+91 peu little
+94 bon good
+96 depuis since, for
+97 point point
+98 ainsi thus
+103 toujours always
+107 fort strong
+109 là there, here
+119 quand when
+121 contre against
+124 ensemble together
+130 seulement only
+134 jusque to, up to, until
+143 droit right
+150 beaucoup much, a lot of, many
+166 soit either…or
+167 ici here
+168 rien nothing
+179 jamais never
+181 tant so much, so many
+190 peut-être perhaps, maybe
+192 maintenant now
+193 pourquoi why
+195 trop too much, too many
+198 devant in front, ahead
+202 long long, lengthy
+217 mieux better
+225 près near, nearby, close by
+230 puis then, so
+233 aujourd'hui today
+234 comment how
+235 surtout especially, above all
+246 également also, too, as well, equally
+247 ci this one, here
+264 haut top, high
+265 ensuite next
+272 plutôt rather
+274 mauvais bad, wrong
+277 mal bad
+284 oui yes
+287 souvent often
+292 vrai true
+304 juste just, only;
+fair
+312 longtemps a long time, a long while
+321 assez enough
+326 d'abord first of all
+335 clair clear
+341 loin far
+348 tard late
+349 enfin at last, finally
+352 cependant however
+360 ailleurs elsewhere, somewhere else
+361 vraiment truly, really, very
+377 autant as much, as many
+394 plein full
+410 parfois sometimes
+411 lors at the time of
+419 gros big
+439 notamment notably
+443 grave serious, grave
+460 pourtant yet, nonetheless, nevertheless
+468 bas low
+481 presque almost
+513 tôt early
+545 court short
+555 faux false
+560 c'est-à-dire in other words
+581 partout everywhere
+588 d'ailleurs moreover, besides, for that matter
+593 rapidement quickly, rapidly
+594 autour around
+600 bref brief
+614 auprès nearby, close to
+615 simplement simply
+618 large wide, width
+678 environ about, thereabouts, or so
+711 vite fast, quickly
+718 davantage more
+728 actuellement at present, at the moment
+770 toutefois however
+779 particulièrement particularly
+800 combien how much, how many
+803 cher expensive
+805 derrière last
+807 immédiatement immediately
+838 proche nearby, close
+843 finalement finally, eventually
+857 exactement exactly
+865 hors except, outside
+869 tellement so much
+871 demain tomorrow
+872 hier yesterday
+888 directement directly
+903 probablement probably
+942 franc frank
+974 outre besides
+1001 auparavant beforehand
+1009 absolument absolutely
+1013 complètement completely
+1021 certes indeed, certainly, of course
+1023 autrement differently, something else, otherwise
+1024 ferme firm
+1025 désormais from now on, henceforth
+1029 dur hard
+1071 certainement certainly
+1117 demi half
+1148 parfaitement perfectly
+1172 au-delà beyond
+1175 profond deep
+1194 facilement easily
+1197 précisément precisely
+1208 bientôt soon
+1217 dehors outside
+1222 récemment recently
+1252 sérieusement seriously
+1271 néanmoins nevertheless
+1316 entièrement entirely, completely
+1319 clairement clearly
+1332 justement exactly, rightly, precisely
+1340 évidemment obviously
+1353 totalement totally
+1382 largement widely
+1395 uniquement only
+1480 au-dessus above
+1504 arrière back, rear
+1518 essentiellement essentially
+1543 malheureusement unfortunately
+1545 extrêmement extremely
+1547 voire even, indeed
+1550 effectivement effectively
+1559 relativement relatively
+1563 réellement really
+1591 guère hardly
+1612 profondément profoundly, deeply
+1629 dessus above, on top
+1633 pratiquement practically
+1710 généralement generally
+1727 suffisamment sufficiently
+1734 apparemment apparently
+1750 sûrement surely
+1766 contrairement contrary
+1769 fortement strongly
+1777 là-bas over there, out there
+1852 chaud warm, hot
+1888 régulièrement regularly
+1965 principalement principally, mainly, primarily
+1975 nécessairement necessarily
+2010 ben well
+2018 normalement normally
+2036 naturellement naturally
+2055 nettement clearly, distinctly
+2062 doux soft, sweet
+2130 spécialement especially, particularly
+2188 forcément without question, inevitably
+2189 conformément in accordance
+2208 là-dessus on top, about it
+2242 franchement frankly
+2310 soudain sudden, suddenly
+2313 sec dry
+2327 purement purely
+2333 légèrement lightly, slightly
+2362 aussitôt straight away, immediately
+2363 officiellement officially
+2366 personnellement personally
+2384 autrefois in the past
+2389 définitivement definitely, permanently, for good
+2390 heureusement fortunately, luckily
+2396 pleinement fully, thoroughly
+2444 librement freely
+2491 vivement sharply, brusquely, lively
+2497 debout standing
+2535 rarement rarely, seldom
+2564 constamment constantly, continuously, consistent
+2585 jaune yellow
+2628 dessous underneath, below, bottom, underside
+2637 lentement slowly
+2659 progressivement progressively
+2739 exclusivement exclusively, solely
+2742 volontiers with pleasure, willingly, gladly
+2767 éventuellement possibly
+2778 quasi almost, nearly
+2813 strictement strictly
+2915 considérablement considerably, significantly, extensively
+2930 correctement properly
+2957 gravement seriously, solemnly, gravely
+2990 proprement cleanly, neatly, properly
+3013 tantôt this afternoon, sometimes
+3014 publiquement publicly
+3038 systématiquement systematically
+3039 énormément enormously
+3058 dedans inside, indoors
+3061 ouvertement openly, overtly
+3066 longuement at length
+3115 véritablement truly, really
+3116 parallèlement in parallel, similarly
+3170 quelquefois sometimes
+3198 manifestement manifestly, clearly
+3200 littéralement literally
+3242 doucement gently, softly
+3256 durement harshly, severely
+3318 fermement firmly
+3340 difficilement with difficulty
+3349 brièvement briefly
+3394 automatiquement automatically
+3410 fréquemment frequently
+3420 hautement highly
+3432 respectivement respectively
+3470 menu slender, slim, minor
+3497 étroitement closely
+3516 sincèrement sincerely
+3529 volontairement voluntarily, willingly
+3537 habituellement usually, generally
+3538 quasiment almost, early
+3555 précédemment previously
+3579 pis worse
+3587 premièrement first
+3594 brusquement abruptly, suddenly
+3647 soigneusement tidily, neatly, carefully
+3651 physiquement physically
+3657 politiquement politically, diplomatically
+3677 visiblement obviously, clearly, visibly
+3697 activement actively
+3730 deuxièmement secondly
+3739 vraisemblablement most probably
+3789 épais thick, pitch dark, thickly
+3796 là-dedans inside, in it
+3800 par-dessus over
+3810 serré tight, packed, crowded
+3843 différemment differently
+3857 dorénavant from now on, henceforth
+3860 radicalement radically
+3902 nullement not in the least
+3909 terriblement terribly, awfully
+3962 attentivement attentively, carefully, closely
+3965 au-dessous underneath
+3969 entre-temps meanwhile, in the meantime
+4009 carrément completely, directly, straight out
+4015 économiquement economically
+4023 efficacement efficiently, effectively
+4057 sensiblement approximately, more or less, noticeably
+4078 explicitement explicitly
+4090 simultanément simultaneously
+4091 techniquement technically
+4096 délibérément deliberately
+4165 alentour around, round about
+4181 quotidiennement daily, every day
+4252 initialement initially
+4266 mutuellement mutually, one another
+4293 partiellement partly
+4296 indépendamment independently, irrespective of, regardless of
+4334 brutalement brutally
+4335 lourdement heavily
+4367 delà beyond, above, over
+4408 aucunement in no way, not in the least, not at all
+4409 globalement globally
+4417 prochainement shortly, soon
+4497 génétiquement genetically
+4527 conjointement jointly
+4534 successivement successively
+4535 assurément most certainly
+4550 infiniment infinitely
+4557 indirectement indirectly
+4579 continuellement continually, continuously
+4632 concrètement in concrete terms
+4644 logiquement logically
+4691 présentement at present, presently
+4698 fondamentalement basically, fundamentally, inherently
+4726 inévitablement inevitably
+4795 jadis formerly, long ago
+4808 théoriquement theoretically
+4815 traditionnellement traditionally
+4818 gratuitement free, gratuitously
+4859 couramment fluently, commonly
+4882 résolument resolutely
+4917 sévèrement severely, harshly
+4967 piano piano
+4991 provisoirement temporarily, provisionally
+4999 exprès deliberately, on purpose, intentionally
+Nouns
+5 être being
+8 avoir possession
+18 pas footstep
+20 pouvoir power
+26 son sound;
+bran
+37 dire saying
+39 devoir duty
+40 avant before
+41 deux two
+47 bien well
+49 fois time, times
+52 nouveau new
+57 vouloir desire
+62 moins less
+65 temps time
+67 savoir knowledge
+72 raison reason
+75 non no, not
+76 an year
+77 monde world, people
+78 jour day
+79 monsieur mister, sir, gentleman
+84 personne person, people, anybody, anyone, nobody
+86 part share
+89 pendant pendant
+93 suite result, follow-up, rest
+94 bon good
+97 point point
+99 heure hour
+102 année year
+106 parler language
+107 fort strong
+110 certain certain, sure
+111 fin end; gist, clever person
+114 pays country
+115 trois three
+116 penser thinking
+117 lieu place
+118 partie part
+121 contre against
+123 côté side
+124 ensemble together
+125 chose thing
+126 enfant child
+127 cause cause
+129 place room, space, square, place
+131 moi me
+132 vie life
+136 homme man
+137 cas case
+141 fait done, fact
+143 droit right
+144 question question
+148 moment moment
+153 travail work
+154 femme woman, wife
+160 gouvernement government
+164 plan plan
+168 rien nothing
+169 cours course
+170 affaire business, matter
+171 nom name
+172 famille family
+173 effet effect
+176 car bus
+178 mois month
+182 vers verse
+183 besoin need
+186 moyen means, way;
+medium
+187 groupe group
+188 problème problem
+189 rapport relationship, report
+191 vue view
+193 pourquoi why
+197 ordre order
+198 devant front
+201 vivre living
+203 service service
+204 ministre minister
+205 face front, side, face
+217 mieux better
+220 mot word
+222 force force
+223 situation situation
+228 projet project
+231 toucher touch
+232 train train
+234 comment how
+235 surtout especially, above all
+236 gens people
+238 grâce thanks, grace, favor
+239 idée idea
+241 région region
+243 sens sense, meaning
+245 semaine week
+248 façon way, manner
+249 nombre number
+253 quatre four
+254 compte account, count
+259 exemple example
+260 ville city
+262 mesure measure
+263 histoire history, story
+266 guerre war
+267 loi law
+268 président president
+273 bureau office, desk
+276 mort dead;
+death
+277 mal bad
+278 lire lira
+280 marché market
+281 condition condition
+284 oui yes
+288 cinq five
+289 système system
+291 jeu game
+294 madame madam, lady
+295 société society
+298 entreprise enterprise, business
+299 coup coup, blow, knock, stroke
+300 or gold
+307 million million
+308 manière manner, way
+310 prix price;
+prize
+311 terme term, deadline
+314 courant current
+315 intérêt interest
+317 information information
+318 détail detail
+320 liberté liberty, freedom
+325 maison house
+328 niveau level
+330 ton tone
+331 æuvre work, task
+333 état state
+340 programme program
+341 loin far
+342 ligne line
+343 tête head
+351 sorte sort, kind
+353 sujet subject, topic
+355 action action
+356 relation relationship
+357 recherche research, search
+358 livre book
+362 doute doubt
+363 reste rest
+364 début beginning
+365 présence presence
+369 forme form
+370 décision decision
+371 rôle role
+372 dix ten
+373 produit product
+375 minute minute
+378 peuple people
+379 second second
+383 position position
+384 développement development
+386 chef head, leader, chief
+387 économie economy
+388 effort effort
+390 membre member
+392 ancien ancient
+393 beau beauty
+397 soir evening
+399 titre title
+401 objet objective;
+object
+405 peine effort, trouble
+407 période period
+414 voix voice
+416 base base
+418 main hand
+421 retour return
+422 prêt ready
+423 occasion chance, opportunity
+424 député deputy, parlementary delegate
+427 deuxième second
+428 résultat result, follow-up
+430 terre earth, world, soil, land
+432 dollar dollar
+434 page page
+435 confiance confidence, trust
+436 choix choice
+438 chance luck;
+chance
+440 type type;
+guy
+441 but goal, aim, objective, purpose
+442 matin morning
+443 grave serious, grave
+444 prise grip, hold, seizure, catch
+446 étude study
+447 principe principle
+450 six six
+452 activité activity
+453 valeur value, worth
+456 réponse answer, response
+457 aide help, assistance
+461 commission commission
+465 époque era, period
+468 bas low;
+stocking
+470 moitié half
+471 avenir future
+472 argent money
+473 mise putting, placing
+474 il eye
+475 eau water
+477 école school
+478 sécurité security, safety
+479 milieu middle
+480 lettre letter
+482 attention attention
+483 cadre frame, executive
+485 mouvement movement
+488 règle rule
+489 poste post, position;
+post office
+490 demande request, demand
+491 centre center
+492 acte act
+496 accord agreement
+497 milliard billion, thousand million
+502 âge age
+505 propos remark
+506 troisième third
+508 bout bit, tip, end
+509 population population
+512 route road
+514 lancer release
+515 limite limit
+516 fonction function
+517 emploi employment, work, use
+518 objectif objective, aim, goal;
+lens
+519 paraître appear
+520 journal newspaper, paper
+523 tour tower;
+turn;
+tour
+525 volonté will
+530 changement change
+532 réalité reality
+538 esprit mind, spirit
+539 domaine domain, field
+542 nature nature
+543 régime regime
+548 départ departure
+552 parole word
+553 fond bottom
+554 publique public
+555 faux scythe
+556 genre type, kind, sort
+558 communauté community
+561 corps body
+562 matière matter, subject, material
+563 sein breast, bosom
+564 difficulté difficulty
+566 secteur sector
+567 appel call
+568 cur heart
+569 père father
+570 organisation organization
+571 unité unity;
+unit
+573 événement event
+576 nation nation
+577 conseil advice, counsel, council
+579 paix peace
+580 nuit night
+582 direction direction, management
+587 journée day
+594 autour around
+598 rue street
+600 bref brief
+602 violence violence
+603 siècle century
+604 article article
+606 qualité quality
+608 solution solution
+609 voie road, lane, route, track, way
+612 erreur mistake, error
+616 souvenir memory
+617 conséquence consequence
+618 large wide, width
+620 succès success
+621 élément element
+623 été summer
+626 pied foot
+627 mission mission
+628 débat debate
+629 fille girl, daughter
+631 texte text
+633 chambre bedroom, chamber
+634 création creation
+637 justice justice
+638 production production
+641 santé health
+645 mère mother
+646 croissance growth
+647 risque risk
+648 arme weapon
+650 endroit place, spot
+651 comité committee
+653 preuve proof
+659 image picture, image
+660 date date
+661 travers breadth, across;
+fault, amiss
+662 contrôle control
+666 campagne countryside
+671 vieux old
+674 passage passage, way
+678 environ about, thereabouts, or so
+679 expérience experience
+684 sénateur senator
+689 processus process
+691 frais fee, expense
+692 industrie industry
+694 responsabilité responsibility
+696 porte door
+697 victime victim
+698 territoire territory
+700 taux rate
+704 cent one hundred, cent
+707 signe sign
+708 blanc white
+709 origine origin, source
+712 langue language, tongue
+715 importance importance
+717 espoir hope
+720 énergie energy
+721 réseau network
+725 possibilité possibility
+729 union union
+735 fils son
+738 différence difference
+741 avis opinion, mind
+746 intervention intervention;
+talk
+749 chiffre figure, number
+755 peur fear
+756 parlement parliament
+759 lutte struggle, fight, conflict
+761 air air, appearance
+762 auteur author
+763 opération operation
+765 crise crisis
+766 numéro number
+769 instant instant, moment
+773 discours speech, talk, discourse
+774 banque bank
+775 compagnie company
+777 opinion opinion
+778 classe class
+782 intention intention
+783 autorité authority
+785 échange exchange
+786 feu fire
+787 neuf nine;
+new
+789 capacité capacity, ability
+792 message message
+794 scène scene
+797 plaisir pleasure
+798 dossier file, record;
+case
+799 proposition proposition, proposal
+802 absence absence
+805 derrière last;
+behind
+806 connaissance knowledge
+808 entrée entrance
+812 salle room
+813 pièce piece, part, component;
+room
+814 équipe team
+817 source source, spring
+818 respect respect
+819 crime crime
+825 impression impression
+826 octobre October
+827 médecin physician, doctor
+829 police police
+830 coût cost
+831 formation training
+832 contrat contract
+834 attitude attitude
+835 faute mistake, error, fault
+836 série series
+845 pression pressure
+846 accès access
+847 champ field, realm
+848 film film
+849 charge charge, load
+851 commune locality
+852 ressource resource
+855 motion motion
+859 chemin path, way
+860 zone zone, area
+861 province province
+862 élection election
+863 usage use, usage
+864 conflit conflict
+866 enquête inquiry, enquiry, investigation
+867 terrain ground, terrain
+868 mars March
+870 espace space
+871 demain tomorrow
+875 égard consideration, respect, regard
+877 huit eight
+880 lien link, bond
+881 voiture car
+882 discussion discussion
+885 agent agent
+886 sentiment feeling
+887 tâche task
+891 décembre December
+894 contact contact
+896 fruit fruit
+898 investissement investment
+900 avantage advantage
+901 garde guard
+904 voyage trip, journey
+905 sept seven
+906 marche walk, step, march
+907 vérité truth
+910 ministère ministry
+912 somme amount, sum;
+nap
+913 culture culture
+917 client client
+919 progrès progress
+920 secrétaire secretary
+921 mer sea
+924 liste list
+926 mémoire memory
+927 caractère nature, character
+930 nécessité necessity, need
+931 juin June
+932 danger danger
+934 commerce trade, commerce
+935 transport transportation
+936 attente wait
+937 institution institution
+938 défense defense
+939 janvier January
+941 négociation negotiation
+942 franc frank;
+franc
+943 mai May
+944 septembre September
+945 environnement environment
+947 réaction reaction
+948 disposition arrangement, disposition
+951 papier paper
+952 expression expression
+953 protection protection
+955 carte card
+956 association association
+958 modèle model
+962 budget budget
+964 structure structure
+965 complet suit
+967 amour love
+970 conseiller adviser
+971 réunion meeting
+972 opposition opposition
+973 maladie illness, disease
+976 construction construction, building
+977 bande band, strip
+978 signal signal
+980 réforme reform
+982 novembre November
+983 fonds funds
+985 reprise resumption, renewal;
+time
+986 presse press
+988 majorité majority
+991 bord edge, side
+993 procédure procedure
+994 faveur favor
+995 éducation education
+997 document document
+998 aspect aspect
+1005 concurrence competition
+1006 déclaration declaration
+1008 mille a thousand
+1010 prison prison
+1011 armée army
+1012 revenu income
+1013 complètement completely
+1015 salaire salary, wage
+1016 lecture reading
+1019 table table
+1022 avril April
+1024 ferme farm
+1028 république republic
+1030 application application
+1032 profit profit, benefit
+1036 communication communication
+1037 jugement judgement
+1038 manque lack
+1039 échec failure
+1042 engagement agreement, commitment
+1043 frère brother
+1044 mardi Tuesday
+1045 rencontre meeting
+1046 vote vote
+1049 espèce species
+1050 recommandation recommendation
+1054 circonstance circumstance
+1055 témoin witness
+1057 administration administration
+1059 lumière light
+1062 combat fight, combat
+1065 vitesse speed
+1067 portée range, reach, scope
+1068 élève pupil, student
+1070 merci thank you;
+favor
+1072 visite visit
+1073 assemblée assembly, meeting
+1074 émission transmision, broadcasting, programme
+1075 arrivée arrival
+1076 puissance power
+1077 partenaire partner
+1079 perte loss
+1083 influence influence
+1084 camp camp
+1085 établissement establishment, organization
+1086 vendredi Friday
+1087 avance advance
+1090 nord north
+1091 lundi Monday
+1092 maître master
+1094 conférence conference
+1096 vente sale
+1098 soldat soldier
+1099 collègue colleague
+1102 poids weight
+1109 soin care
+1111 traitement treatment, salary, wage
+1112 jeudi Thursday
+1114 science science
+1115 individu individual
+1116 donnée fact, datum
+1117 demi half
+1124 conscience conscience, consciousness
+1126 sang blood
+1127 millier thousand
+1129 initiative initiative
+1134 exception exception
+1136 février February
+1137 mode mode, way, fashion
+1139 musique music
+1140 gestion management
+1141 honneur honor
+1145 étape stage, step
+1149 méthode method, procedure
+1150 professeur professor, teacher
+1151 envers towards
+1153 existence existence
+1156 dommage damage, harm;
+too bad
+1157 crédit credit
+1158 tendance tendency, trend
+1159 chaîne chain, channel
+1161 note note, grade
+1162 réserve reserve
+1165 version version
+1166 règlement rule, regulation
+1167 couple couple
+1168 mercredi Wednesday
+1172 au-delà beyond
+1174 sortie exit
+1179 télévision television
+1180 retraite retirement, pension
+1181 art art
+1182 frontière border
+1184 promesse promise
+1187 quartier district, quarter
+1188 avocat lawyer
+1192 université university
+1193 rire laughing
+1195 crainte fear
+1198 soutien support
+1199 urgence emergency
+1200 clé key
+1204 analyse analysis
+1206 regard look, glance
+1210 mariage marriage
+1211 couleur color
+1215 conclusion conclusion
+1216 bleu blue
+1217 dehors outside
+1221 habitude habit
+1223 fil thread, wire
+1227 accident accident
+1228 code code
+1232 représentant representative
+1235 dimanche Sunday
+1237 envie envy
+1240 parc park
+1241 impôt tax
+1242 sud south
+1245 île island
+1246 cité city
+1247 carrière career
+1249 traité treaty
+1250 libération liberation
+1253 bras arm
+1257 palestinien palestinian
+1258 lendemain next day
+1261 geste gesture
+1262 roman novel
+1263 augmentation increase, rise
+1264 facteur postman, mailman;
+factor
+1266 échelle ladder, scale
+1269 pensée thought
+1272 bénéficier beneficiary
+1273 vingt twenty
+1275 perspective perspective, viewpoint
+1276 défaut fault, flaw, shortcoming
+1278 retard delay
+1279 démocratie democracy
+1281 silence silence
+1282 troupe troup, troop
+1286 stratégie strategy
+1287 bateau boat, ship
+1288 printemps spring
+1289 course race, shopping
+1290 exercice exercise,
+1292 visage face
+1293 droite right
+1294 machine machine
+1295 village village
+1298 édition publishing, editing, edition
+1299 organisme organism
+1300 leçon lesson
+1303 bataille battle
+1304 port harbor, port
+1305 naissance birth
+1308 hôpital hospital
+1309 circuit circuit
+1311 degré degree
+1312 exigence demand, strictness
+1313 rêve dream
+1317 chapitre chapter
+1323 juge judge
+1324 après-midi afternoon
+1326 juillet July
+1328 candidat candidate
+1330 résistance resistance
+1333 habitant inhabitant
+1334 formule formula, expression
+1335 mur wall
+1336 tribunal court
+1337 journaliste journalist
+1338 manger food
+1342 résolution resolution
+1344 marque brand, mark
+1345 utilisation use
+1346 offre offer
+1350 constitution constitution
+1351 participation participation
+1352 évolution evolution
+1355 samedi Saturday
+1357 fou madman
+1362 transfert transfer
+1364 roi king
+1365 soi one, oneself, self
+1366 téléphone telephone
+1367 net clear;
+Internet
+1368 foi faith
+1369 motif motive, purpose
+1371 tradition tradition
+1372 institut institute
+1373 victoire victory
+1374 arrêt stop
+1375 concours entrance exam, competition
+1376 vis-à-vis face to face, regarding
+1381 tentative attempt
+1385 côte coast
+1386 génération generation
+1387 vent wind
+1388 technologie technology
+1390 dépit spite, heartache
+1391 équilibre balance, equilibrium
+1393 obstacle obstacle
+1394 réflexion reflection
+1397 revanche revenge;
+return
+1399 station station
+1400 supporter supporter
+1402 catégorie category
+1403 mine mine;
+appearance, look
+1406 propriétaire owner
+1408 priorité priority
+1409 avion plane
+1412 photo photo
+1416 navire ship
+1417 centaine hundred
+1418 explication explanation
+1420 appareil apparatus, device
+1421 publication publication
+1423 trait line, feature
+1424 référence reference
+1425 bois wood
+1427 symbole symbol
+1428 consommation consumption
+1430 chômage unemployment
+1431 courage courage
+1432 reconnaissance recognition, gratitude
+1433 entretien interview, discussion, maintenance
+1435 kilomètre kilometer
+1437 identité identity
+1438 amendement amendment
+1440 division division
+1441 contexte context
+1444 obligation obligation, bond
+1445 août August
+1448 examen exam
+1449 personnage character, individual
+1455 ouverture opening
+1456 tableau frame, picture, painting, panel
+1458 meurtre murder
+1460 propriété property
+1462 site site
+1463 séance session, meeting
+1464 durée length, duration
+1466 baisse fall, drop
+1467 inquiétude worry, anxiety
+1469 représentation representation
+1471 mandat term, mandate
+1472 quinze fifteen
+1474 statut status
+1475 essai attempt, try, test
+1476 sourire smile
+1481 agence agency
+1482 usine factory
+1484 rang rank, row
+1485 employé employee
+1486 sommet summit
+1489 comportement behavior
+1490 fête holiday, celebration
+1491 sol floor, ground
+1493 vague vague;
+wave
+1494 réduction reduction
+1496 coopération cooperation
+1497 vertu virtue
+1499 leader leader
+1500 taille size, height
+1502 distance distance
+1503 automne fall, autumn
+1504 arrière back, rear
+1505 vision vision, view
+1512 conduite behavior, driving
+1513 convention agreement, convention
+1517 évidence evidence
+1521 approche approach
+1522 délai delay
+1524 bruit noise
+1525 humanité humanity
+1526 radio radio
+1528 syndicat union
+1530 soirée evening
+1531 vol flight, theft
+1534 mètre meter
+1538 ciel sky
+1542 seconde second
+1548 témoignage testimony
+1549 messieurs gentlemen
+1551 gaz gas
+1552 acteur actor
+1554 cour yard, court
+1555 dépense expense, expenditure
+1556 souci worry, concern
+1558 sur sister
+1561 procès trial, proceedings
+1568 colère anger
+1570 notion notion
+1571 siège seat, bench
+1572 hausse rise, raise, increase
+1573 mécanisme mechanism
+1577 trafic traffic, circulation
+1579 foyer home, hearth
+1582 métier job, occupation, trade
+1583 modification modification
+1585 médias media
+1586 hiver winter
+1587 définition definition
+1589 mari husband
+1596 renseignement information
+1598 fonctionnement operation, functioning
+1599 garçon boy
+1602 prévision forecast, prediction, expectation
+1603 quatrième fourth
+1604 fenêtre window
+1607 menace threat
+1609 jeunesse youth
+1613 séparation separation
+1615 refus refusal
+1616 poisson fish
+1617 révolution revolution
+1621 fer iron
+1623 cinéma cinema
+1624 calcul calculation
+1626 enseignement education, teaching
+1628 dizaine approximately ten
+1629 dessus top
+1631 fonctionnaire state employee, public servant
+1632 instruction instruction, direction
+1636 réalisation realization, achievement
+1638 démarche walk, process
+1640 volume volume
+1641 réussite success
+1642 désir desire
+1644 exportation export
+1646 trente thirty
+1647 âme soul
+1649 autorisation authorization, permission, permit
+1650 instrument instrument
+1651 indépendance independence
+1652 tort wrong
+1653 hauteur height
+1655 attaque attack
+1656 assurance insurance, confidence
+1657 déficit deficit
+1659 drogue drug
+1662 rythme rhythm, rate
+1664 douze twelve
+1667 saison season
+1668 épreuve test, ordeal, trial
+1669 hypothèse hypothesis
+1671 financement financing
+1672 dos back
+1673 consommateur consumer, customer
+1677 finance finance
+1680 quantité quantity
+1685 commentaire comment, remark
+1687 spectacle sight, show
+1688 pari bet
+1690 ouest west
+1691 sexe sex
+1693 recours resort, recourse
+1694 accent accent
+1697 concert concert
+1698 couverture blanket
+1699 religion religion
+1700 appui support
+1701 théâtre theater
+1704 équipement equipment
+1706 patron boss
+1707 marge margin
+1708 abri shelter
+1709 recette recipe
+1711 vigueur vigor
+1713 soleil sun
+1716 bourse purse, scholarship
+1717 dimension dimension
+1719 dialogue dialogue
+1720 thème theme, topic
+1722 porte-parole spokeperson, spokeman, spokewoman
+1723 présentation presentation
+1724 forêt forest
+1725 outil tool
+1726 vacance vacancy;
+vacation
+1728 défi challenge
+1729 front front, forehead
+1732 montagne mountain
+1735 présidence presidency
+1736 magasin store
+1737 commissaire superintendent, commissioner
+1738 écrivain writer
+1740 ouvrage work
+1741 réputation reputation
+1742 cabinet cabinet, agency, office
+1743 écart space, gap
+1744 chien dog
+1745 surveillance surveillance, monitoring
+1747 conversation conversation
+1748 surface surface
+1751 bombe bomb
+1752 efficacité efficiency, effectiveness
+1753 euro euro
+1754 phase phase
+1755 confusion confusion, mix-up
+1756 précision precision
+1757 compétence competence
+1758 bilan balance sheet, outcome
+1761 chute fall
+1767 pierre stone
+1771 boîte box
+1773 théorie theory
+1774 hôtel hotel
+1776 phénomène phenomenon
+1779 totalité totality, entirety
+1780 sort fate, curse
+1782 église church
+1785 contribution contribution
+1786 profondeur depth
+1788 test test
+1789 vice-président vice-president
+1790 pêche fishing;
+peach
+1791 découverte discovery
+1795 essence gas, petrol
+1798 coin corner
+1799 tension tension
+1800 don gift
+1801 uniforme uniform, steady, regular
+1803 grève strike
+1804 achat purchase
+1806 exécution execution, accomplishment
+1815 surprise surprise
+1817 dette debt
+1818 capitale capital
+1819 maintien holding, maintaining
+1821 pension pension;
+room and board, boarding school
+1822 revue review, magazine, journal
+1824 neige snow
+1825 figure face;
+figure
+1826 masse mass
+1829 goût taste
+1830 prestation benefit
+1832 catastrophe catastrophe, disaster
+1834 exploitation operation, exploitation
+1835 manifestation demonstration, event
+1837 lit bed
+1838 bouche mouth
+1839 excuse excuse, apology
+1840 veille the day before, the eve of, night watch
+1846 alliance alliance
+1847 préoccupation worry, concern
+1848 trace trace, mark, track
+1849 logement accommodation
+1850 langage language
+1851 plainte moan, groan, complaint
+1854 émotion emotion, feeling
+1857 secours help, aid, assistance
+1860 club club
+1862 souffrance suffering
+1863 observation observation
+1866 passion passion
+1867 rupture break, rupture
+1868 office office, bureau
+1873 rendez-vous appointment
+1874 argument argument
+1875 planète planet
+1876 maire mayor
+1878 attentat attack, assassination attempt
+1879 boire drink
+1880 richesse wealth, richness
+1881 caisse till, cash desk
+1882 hasard chance, luck
+1883 héros hero
+1884 oreille ear
+1885 incident incident
+1886 café coffee, café
+1887 annonce announcement
+1889 pont bridge
+1894 foule crowd
+1897 norme norm, standard
+1898 égalité equality
+1899 tenue dress, outfit
+1901 statistique statistics, statistical
+1902 piste track, trail
+1904 hommage homage, tribute
+1906 match match, game
+1907 pointe point, tip
+1910 tragédie tragedy
+1911 distribution distribution
+1912 scandale scandal, uproar
+1915 bénéfice benefit, profit
+1916 billet ticket
+1917 choc shock, clash
+1918 proportion proportion
+1919 canal canal, channel
+1921 destruction destruction
+1923 critère criterion, criteria
+1925 adresse address
+1926 réception reception
+1931 manuvre manoeuvre, labourer
+1932 monnaie currency, coin, change
+1933 transmission transmission
+1935 courrier mail, post
+1938 doigt finger
+1940 poche pocket
+1943 honte shame
+1944 faiblesse weakness
+1945 fédération federation
+1948 bonheur happiness
+1951 pauvreté poverty
+1952 bâtiment building
+1953 époux husband, spouse
+1954 médicament medicine, drug, medication
+1955 firme firm
+1957 électeur elector, voter
+1959 véhicule vehicule
+1963 personnalité personality
+1966 prudence prudence, care, caution
+1967 stade stadium, stage
+1968 liaison liaison, connection
+1969 consultation consultation
+1972 bonjour hello
+1973 morale ethics;
+moral
+1976 détermination determination, resolution
+1977 congrès congress, conference
+1980 dépôt deposit, depot
+1981 considération consideration
+1983 dame lady
+1984 joie joy
+1986 faim hungry
+1989 concept concept
+1990 cerveau brain
+1991 truc trick;
+thingamajig
+1999 style style
+2001 ombre shade, shadow
+2005 interprétation interpretation
+2006 climat climate
+2007 séjour stay
+2011 sport sport
+2012 amélioration improvement
+2013 douleur pain
+2014 issue exit, outcome
+2017 talent talent
+2019 remarque remark
+2025 orientation orientation, trend
+2028 reporter reporter
+2030 cinquième fifth
+2031 distinction distinction
+2032 impact impact
+2033 magazine magazine
+2035 mérite merit
+2037 collaboration collaboration
+2039 officier officer
+2045 poursuite chase, pursuit
+2053 fuite escape
+2054 conviction conviction, belief
+2057 évaluation evaluation
+2058 installation installation, setup
+2066 bloc block
+2068 seuil doorstep, threshold
+2071 audience audience, hearing
+2073 minorité minority
+2074 phrase sentence, phrase
+2077 disparition disappearance
+2080 trouble turmoil, agitation, blurred, cloudy, trouble
+2083 littérature literature
+2085 adolescent teenager, adolescent
+2088 agriculture agriculture
+2089 gouverneur governor
+2090 aventure adventure
+2092 volet shutter
+2094 prime free gift, premium, bonus
+2096 occupation occupation, pastime
+2100 lecteur reader
+2103 vu vow, wish, will
+2105 conception conception
+2108 satisfaction satisfaction
+2110 publicité advertising, advertisement, publicity
+2111 arbre tree
+2112 univers universe
+2113 aéroport airport
+2115 chasse chase, hunt, hunting
+2116 collège secondary school, college
+2117 garantie guarantee
+2118 morceau piece, bit
+2120 discipline discipline
+2121 explosion explosion
+2122 peau skin
+2123 commande order, control
+2126 paragraphe paragraph
+2129 diffusion diffusion, spreading, circulation
+2133 copie copy, replica, paper
+2138 indice indication, sign, clue
+2139 promotion promotion, advertising
+2140 branche branch
+2141 section section
+2142 chanson song
+2143 pair peer
+2151 cellule cell
+2154 connexion connection
+2156 option option
+2157 pétrole crude oil, petroleum
+2158 laboratoire laboratory
+2160 coucher sleep
+2161 département department
+2162 génie genius
+2163 profession profession
+2164 rumeur rumor
+2167 plat dish, flat
+2168 maman mom
+2169 incertitude uncertainty
+2171 dignité dignity
+2173 philosophie philosophy
+2174 verre glass
+2176 docteur doctor
+2178 fréquence frequency
+2180 trou hole
+2183 éditeur publisher, editor
+2187 signature signature
+2193 héritage heritage
+2200 satellite satellite
+2202 fondé founded, justified;
+agent, clerk
+2205 salut salute, hi, bye
+2207 enfance childhood
+2213 prière prayer
+2216 musée museum
+2217 pluie rain
+2218 précaution precaution
+2220 cheval horse
+2221 communiqué communiqué, release, statement
+2222 suicide suicide
+2223 rivière river
+2225 rédaction writing, composition
+2226 enceinte enclosure
+2227 substance substance
+2229 récit account, narrative
+2230 revendication claim, demand
+2232 sondage poll
+2234 composition composition, essay, dialling
+2236 accusation accusation, indictment
+2237 invitation invitation
+2243 paiement payment
+2244 comparaison comparison
+2246 déplacement movement, displacement, trip, travel
+2248 dispositif device, apparatus
+2250 contrainte constraint
+2255 immigration immigration
+2256 cancer cancer
+2258 cercle circle, cycle
+2260 importation import
+2261 tonne ton
+2262 dieu god
+2263 référendum referendum
+2266 visiteur visitor
+2269 étage floor
+2272 amitié friendship
+2273 cinquante fifty
+2274 zéro zero
+2275 drame drama
+2277 haine hatred, hate
+2278 instance authority, proceedings, hearing
+2279 cérémonie ceremony
+2280 ambition ambition
+2282 sanction sanction
+2284 jardin garden
+2285 nourriture food
+2287 infrastructure infrastructure
+2288 adversaire opponent, adversary
+2293 circulation circulation, traffic
+2294 cotisation subscription
+2295 entente understanding, agreement
+2296 cheveu hair
+2298 cadeau present, gift
+2299 affirmation assertion, affirmation
+2301 destination destination
+2302 stabilité stability
+2304 gars guy
+2305 fleur flower
+2306 agriculteur farmer
+2307 poète poet
+2308 fabrication manufacture, production
+2309 vin wine
+2311 balle ball, bullet
+2312 inflation inflation
+2313 sec dry
+2318 transition transition
+2321 adoption adoption, passing
+2323 appartement apartment, flat
+2324 session session
+2326 ménage housekeeping, housework
+2328 enjeu stake
+2330 transformation transformation, change
+2332 misère poverty, misery
+2336 restaurant restaurant
+2337 destin fate, destiny
+2338 discrimination discrimination
+2339 certitude certainty
+2340 huile oil
+2342 autonomie autonomy
+2343 sac bag, sack
+2344 stock stock
+2349 barre bar, rod
+2350 contradiction contradiction
+2353 souveraineté sovereignty
+2355 concentration concentration
+2357 remise presentation, delivery
+2358 mec guy
+2359 solidarité solidarity
+2361 décennie decade
+2365 dîner dinner
+2371 fortune fortune
+2374 combattant fighter
+2376 merde sh*t, crap
+2377 entrepreneur contractor, entrepreneur
+2378 exposition exhibition, show
+2380 cri shout, cry
+2382 désert desert, wilderness
+2383 vêtement garment, item or article of clothing
+2386 marchandise merchandise, commodity
+2388 continent continent
+2392 guide guide
+2393 tabac tabacco
+2394 rendement yield, output
+2395 ampleur extent, scope, range
+2397 désastre disaster
+2400 écho echo
+2401 fusion fusion, melting, merging
+2402 innovation innovation
+2403 sélection selection
+2406 tournant revolving, swivel, encircling, bend, turning point
+2408 collectivité community, group
+2409 record record
+2412 modalité mode, method, modality
+2413 paquet packet
+2414 fondation foundation
+2415 terroriste terrorist
+2417 organe organ
+2418 protocole etiquette, protocol
+2419 apparition appearance, apparition
+2420 gain gain
+2421 écran screen
+2428 allusion allusion
+2429 lancement launch
+2430 porteur carrier, holder
+2434 domicile home, place of residence
+2435 oiseau bird
+2436 quarante forty
+2437 sacrifice sacrifice
+2438 barrière fence, barrier, gate
+2439 biais way, device;
+bias
+2440 feuille leaf, sheet, slip
+2441 délégation delegation
+2445 congé holiday, time off, day off, notice
+2446 taxe tax
+2447 onze eleven
+2451 préparation preparation
+2454 possession possession, ownership
+2455 rejet rejection
+2458 papa dad, daddy
+2459 collaborateur associate, fellow worker, contributor, collaborator
+2461 technicien technician
+2462 cycle cycle
+2465 alcool alcohol
+2466 prétexte pretext
+2468 scénario scenario, script
+2469 électricité electricity
+2472 jambe leg
+2474 privilège privilege
+2475 week-end weekend
+2478 invité guest
+2481 blessure injury, wound
+2483 midi noon
+2484 disque disc
+2485 couche layer, coat
+2490 race breed, race
+2492 beauté beauty
+2493 atmosphère atmosphere
+2494 épaule shoulder
+2496 circonscription district, constituency
+2499 recul backward movement, setback, slip
+2501 flux flow
+2502 horizon horizon, skyline
+2504 subvention subsidy
+2507 lait milk
+2511 bibliothèque library
+2513 océan ocean
+2518 capitaine captain
+2521 prévention prevention, custody
+2529 destinée fate, destiny
+2530 patrimoine heritage, assets
+2534 intégration integration
+2537 diversité diversity
+2541 accueil welcome, reception
+2542 camion truck
+2545 prêtre priest
+2546 indication indication
+2548 décès death
+2552 profil profile, outline, contour
+2556 registre log, register, registry
+2559 performance performance
+2560 angle angle, point of view
+2561 divorce divorce
+2562 fermeture closing
+2565 horreur horror
+2568 faculté ability, right, option, faculty, university
+2569 brillant brilliant
+2570 pacte pact, treaty
+2573 assistance attendance, assistance
+2578 suppression deletion, suppression
+2579 coupure cut, cutting
+2580 glace ice, ice cream;
+mirror
+2581 gare station, railway station
+2582 drapeau flag
+2584 sensibilité sensitivity, sensibility
+2587 procureur prosecutor
+2589 restriction restriction
+2593 racine root
+2596 gravité seriousness, solemnity, graveness, gravity
+2598 civilisation civilization
+2602 football football, soccer
+2604 législation legislation
+2607 thèse thesis, argument
+2610 prince prince
+2611 vidéo video
+2614 partenariat partnership
+2615 file line, queue
+2616 chômeur unemployed person
+2618 cuisine cooking, kitchen
+2620 royaume kingdom
+2622 provenance origin, strange
+2624 dessin drawing, pattern, design
+2625 viande meat
+2626 paramètre parameter
+2627 gré liking
+2628 dessous underneath, below, bottom, underside
+2631 condamnation condemnation
+2633 employeur employer
+2634 paysage landscape, scenery, countryside
+2636 longueur length
+2638 miracle miracle
+2641 expansion expansion
+2644 commandement command, order, commandment
+2647 pause break, pause
+2648 répartition distribution, spreading
+2651 compétition competition
+2653 touriste tourist
+2655 pardon forgiveness
+2656 filet dribble, trickle, wisp, streak, thread, fillet, net
+2658 contribuable taxpayer
+2660 progression progression
+2661 nez nose
+2665 adhésion membership, support
+2666 portrait portrait, photograph
+2669 coordination coordination
+2671 rose rose;
+pink
+2672 quête quest, pursuit, collection
+2673 compromis compromise, agreement
+2674 investisseur investor
+2676 abandon abandonment, desertion, withdrawal
+2679 mensonge lie
+2680 défaite defeat
+2685 uf egg
+2686 ambassadeur ambassador
+2689 accessoire accessory
+2690 acquisition acquisition, acquire, purchase
+2691 tournée tour, round
+2692 tranche slice, edge, section, bracket, slot
+2693 plage beach
+2694 inspecteur inspector
+2695 tempête storm, gale, turmoil
+2699 survie survival
+2701 adaptation adaptation
+2702 plante plant
+2704 putain whore, bitch
+2705 imagination imagination
+2708 directive guideline
+2711 coalition coalition
+2713 excellence excellence
+2714 apparence appearance
+2716 écriture writing
+2717 parcours journey, course, route
+2720 révolte revolt
+2723 tas pile, lots of
+2724 déjeuner lunch
+2726 élite elite
+2727 malheur misfortune
+2728 aube dawn, daybreak
+2729 salon lounge, living room
+2731 repos rest
+2734 interdiction ban, banning
+2737 médecine medecine, medical science
+2740 cible target
+2743 fauteuil armchair, seat
+2744 couloir corridor, aisle
+2745 enthousiasme enthusiasm, enthusiastically
+2746 télé TV
+2748 révision review, revision, overhaul
+2757 abus abuse, misuse, breach
+2758 procédé processus
+2760 amateur amateur
+2761 regret regret, regretfully
+2762 accroissement increase
+2763 trimestre quarter
+2764 onde wave
+2768 vache cow
+2771 agression agression
+2772 loisir leisure
+2773 chaleur heat
+2775 partage division, cutting, sharing
+2776 étoile star
+2777 mystère mystery
+2779 description description
+2784 dent tooth
+2788 intelligence intelligence
+2790 licence licence, permit
+2791 rigueur harshness, severity, rigidness, rigor, strictness
+2793 métal metal
+2794 palais palace, palate
+2798 signification significance
+2802 pain bread
+2803 plateau plateau, tray, set, stage
+2804 répétition repetition, rehearsal
+2805 diminution reduction, decreasing
+2806 collection collection, series
+2807 gène gene
+2808 permanence permanence, duty, service
+2809 reine queen
+2810 privatisation privatization
+2811 correspondance correspondance, connection
+2814 violation violation, transgression
+2815 compensation compsensation, clearing
+2816 lycée high school
+2818 combinaison combination
+2819 injustice injustice, unfairness
+2820 reportage report, reporting
+2821 déception disappointment, let-down
+2823 plafond ceiling, roof, maximum
+2824 opérateur operator
+2825 camarade friend, comrade, pal, mate
+2826 traduction translation
+2827 compréhension understanding, comprehension
+2828 réglementation regulation
+2833 folie madness, folly, insanity
+2834 terrorisme terrorism
+2835 illusion illusion
+2836 portefeuille wallet
+2839 clôture enclosure;
+termination, closure
+2842 télécommunication telecommunication
+2843 désaccord disagreement, discord, conflict
+2844 uranium uranium
+2845 aliment food
+2846 alimentation diet, food, groceries, supply
+2847 pomme apple
+2848 ingénieur engineer
+2853 larme tear
+2855 cigarette cigarette
+2856 vallée valley
+2860 entrevue meeting, interview
+2861 ressort spring;
+resort;
+spirit
+2863 opportunité opportunity, timeliness
+2864 robe dress
+2865 plaque plate, tag, plaque
+2868 piège trap
+2871 refuge refuge
+2873 pente slope
+2874 album album
+2877 spectateur member of the audience, spectator, onlooker
+2878 axe axis, axle, main line
+2879 chasseur hunter, fighter, page, messenger
+2881 peinture painting, paint, picture
+2882 déchet scrap, waste, trash, garbage
+2884 grand-chose not very much
+2886 affiche poster, public notice, bill
+2887 massacre massacre, slaughter
+2888 actualité current events, news
+2891 marine marine, navy
+2892 cadavre corpse
+2893 fleuve river
+2894 toit roof
+2896 transparence transparency
+2899 fondateur founder
+2900 charte charter
+2901 productivité productivity
+2902 succession succession
+2907 consentement consent
+2908 chapeau hat
+2910 mythe myth
+2911 alternative alternative, choice
+2913 scrutin ballot, poll
+2914 culpabilité guilt
+2917 introduction introduction
+2920 pétition petition
+2922 ordonnance prescription, organization, edict, ruling
+2923 aile wing, sail, blade
+2924 température temperature
+2925 coupe bowl, dish, cut
+2926 rayon ray, beam, radius;
+department, section, shelf
+2927 lèvre lip
+2929 boulot work, job
+2931 colonne column
+2935 charbon coal
+2937 colline hill
+2938 poésie poetry
+2940 transaction transaction
+2941 extrémité end, extremity
+2943 économiste economist
+2944 banlieue suburbs, outskirts
+2947 calendrier calendar
+2948 repas meal
+2949 cul bum, arse, ass
+2952 paradis paradise, heaven
+2955 tourisme tourism, sightseeing
+2956 démonstration demonstration
+2958 infraction offence, infringement, infraction
+2959 tir fire, shot, launch
+2960 envoi sending, dispatching
+2961 arrangement arrangement, layout, order, agreement
+2964 danse dance, dancing
+2967 genou knee
+2969 péril peril
+2970 préférence preference, preferably
+2972 rentrée reopening, return, start
+2974 monopole monopoly
+2976 incendie fire, blaze
+2977 proximité proximity, nearness, closeness
+2978 hélicoptère helicopter
+2979 bouteille bottle
+2980 championnat championship
+2983 entité entity
+2986 mélange mixing, mixture, blend
+2987 pourcentage percentage, commission, cut
+2988 permis license, permit, permitted
+2993 super great
+2998 sagesse wisdom, moderation
+2999 baiser kiss
+3001 enfer hell
+3002 pilote pilot, experimental
+3004 objection objection
+3005 correction correction
+3006 vocation vocation, calling
+3007 facture invoice, bill
+3009 luxe luxury
+3010 nomination appointment, nomination
+3011 poster poster
+3012 bar bar
+3015 gueule mouth, trap
+3017 sympathie liking, warmth, friendship, sympathy
+3020 copain friend, buddy, mate
+3023 compagnon companion, craftsman, journeyman
+3024 déroulement development, progress
+3029 matinée morning
+3031 poème poem
+3032 bassin bowl, basin
+3035 rage rage, fury, rabies
+3036 enregistrement recording, registration, check-in, logging
+3041 dictature dictatorship
+3042 acheteur buyer, purchaser
+3044 édifice building
+3045 lot share, prize, lot
+3046 fondement foundation
+3048 fournisseur supplier, provider
+3049 détriment detriment
+3052 élimination elimination
+3054 col collar, mountain pass
+3057 résidence residence, block of flats
+3058 dedans inside, indoors
+3062 patience patience
+3064 classement classification, ranking
+3065 arrestation arrest
+3067 ancêtre ancestor, forerunner
+3068 intensité intensity
+3069 grandeur size, greatness
+3070 entraînement training, coaching, drive
+3073 pollution pollution
+3075 attribution awarding, allocation, assignment, attribution
+3076 caméra camera
+3079 ère era
+3080 rappel reminder, summary, recall, return, remember
+3081 fabricant manufacturer
+3082 utilité use, usefulness,
+3084 annexe annex, appendix, related issue
+3085 interlocuteur speaker
+3088 rémunération remuneration, payment, pay
+3089 faillite bankruptcy, collapse, failure
+3094 vérification check, verification
+3097 trésor treasure, treasury
+3098 vingtaine about twenty
+3099 séquence sequence
+3103 échéance expiration date, date of payment, deadline
+3104 surplus surplus
+3109 défenseur defender
+3110 citation quote, quotation, citation
+3111 reconstruction reconstruction
+3117 légume vegetable
+3120 souffle breath, puff
+3121 lac lake
+3122 souhait wish
+3124 sixième sixth
+3125 enveloppe envelope
+3126 extension extension, stretching, expansion
+3132 excès excess, surplus, abuse
+3133 douzaine dozen
+3134 turc Turk, Turkish
+3137 consensus consensus
+3138 chat cat;
+chat
+3139 avertissement warning
+3140 excédent surplus
+3141 mondialisation internationalization, globalization
+3143 unanimité unanimity
+3145 inégalité difference, uneveness, inequality
+3147 finale finale, final event
+3148 mademoiselle Miss
+3150 ventre belly, stomach
+3151 soixante sixty
+3152 bière beer;
+coffin
+3154 interrogation question, interviewing, interrogation, questioning, test
+3155 voile veil, sail
+3158 manuel manual
+3164 centrale power station, central office
+3165 pôle pole
+3166 délit crime, offence
+3167 usager user
+3173 mépris contempt, scorn, disdain
+3174 échantillon sample
+3175 continuité continuity, continuation
+3176 fichier file
+3177 conquête conquest
+3179 supplément supplement, extra
+3183 permission permission, leave
+3185 idéologie ideology
+3186 interview interview
+3187 désespoir despair
+3188 humeur mood, temper
+3189 demandeur seeker, complainant
+3193 encouragement encouragement
+3201 reproduction reproduction
+3203 chèque check
+3205 matériau material
+3206 dépendance dependence, dependency
+3208 poignée handful, fistful, handle
+3210 divergence divergence, difference
+3211 restant remaining, the rest, the remainder
+3212 détention detention, possession
+3214 inscription registration, enrolment;
+engraving
+3215 montée climb, ascent, rise, raising
+3216 approvisionnement supply, supplies, stock, supplying, stocking
+3217 municipalité municipality
+3219 nuage cloud
+3221 confédération confederation
+3223 vendeur salesman, seller
+3224 réplique reply, retort;
+replica
+3226 intervalle space, distance, interval
+3227 métro underground, metro
+3228 coutume custom
+3232 variété variety
+3233 bulletin bulletin, report
+3234 flotte fleet
+3236 poussière dust
+3237 fierté pride
+3238 épisode episode
+3240 interface interface
+3241 administrateur administrator
+3244 projection projection, ejection, discharge
+3245 treize thirteen
+3246 antenne antenna
+3247 tarif price, rate, fare, tariff
+3248 remplacement replacement, standing in
+3249 devise currency, motto, slogan
+3250 optimisme optimism
+3252 décret decree
+3254 suggestion suggestion
+3255 queue tail, handle, stalk, stem, rear
+3258 sucre sugar
+3260 chair flesh
+3263 sable sand
+3264 corruption corruption
+3265 blé wheat
+3266 chaos chaos
+3269 fusil rifle, gun
+3272 discrétion discretion
+3273 odeur smell, odor
+3274 identification identification
+3278 aspiration aspiration
+3279 photographie photography
+3280 exclusion exclusion, expulsion
+3282 tribune platform, forum, gallery
+3284 historien historian
+3285 seize sixteen
+3286 tentation temptation
+3287 gloire glory, fame
+3292 chantier construction site, roadworks
+3293 croyance belief
+3294 ennui boredom, trouble, worry
+3295 pompier fireman, firefighter
+3296 inspection inspection
+3298 pouce thumb, inch
+3299 clientèle customers, clientele
+3301 révélation diclosure, revelation
+3305 schéma diagram, outline
+3306 acier steel
+3307 vainqueur winner
+3309 sud-est south-east
+3311 concession concession
+3313 assassinat murder, assassination
+3314 rive shore, bank
+3315 tolérance tolerance
+3316 clarté lightness, brightness clearness, clarity
+3321 change exchange
+3322 star star
+3323 grain grain, bean, bead;
+spot, mole
+3325 malaise uneasiness, discomfort
+3327 ambassade embassy
+3328 diplôme diploma, certificate
+3329 miroir mirror
+3331 restructuration restructure, restructuring
+3332 proie prey
+3333 domination domination, dominion, rule
+3334 otage hostage
+3338 demi-heure half an hour
+3339 placement investment, placing
+3341 grille railings, gate, grid, scale
+3343 abord manner;
+approach, access, environs
+3346 lune moon
+3347 mention mention, note, comment, notice
+3350 actionnaire shareholder
+3352 raisonnement reasoning
+3354 quai platform, quay, embankment
+3355 légende legend, caption, key
+3356 spécialité speciality
+3358 démission resignation
+3359 quatorze fourteen
+3361 médaille medal
+3363 impasse dead end, cul-de-sac
+3365 atelier workshop, studio
+3367 empire empire
+3373 comédie comedy, playacting
+3374 propagande propaganda
+3375 colonie colony
+3376 désordre disorder, confusion
+3379 terreur terror, dread
+3382 virus virus
+3386 tunnel tunnel
+3387 cousin cousin
+3390 réacteur reactor, jet engine
+3393 sommeil sleep, sleepiness
+3395 balance scales, balance
+3396 dépression depression
+3397 pompe pump
+3398 contestation questioning, protest
+3399 inconvénient snag, drawback, disadvantage, inconvenience
+3400 frein brake
+3401 inspiration inspiration
+3402 candidature application, candidacy, candidature
+3403 armement arms, weapons, armament
+3404 épargne savings, saving
+3412 pavillon country house, villa, wing, pavilion;
+flag
+3413 pape pope
+3415 sensation sensation
+3417 angoisse distress, anguish, dread, fear
+3418 générosité generosity, generously
+3419 chaise chair
+3421 légitimité legitimacy
+3422 emprunt loan
+3423 clause clause
+3424 clef key
+3425 répression repression, suppression, crack-down
+3426 tombe grave, tomb
+3429 blocage block
+3430 faille fault
+3436 hostilité hostility, hostilities
+3437 manche handle, sleeve
+3439 gamin kid
+3441 temple temple
+3442 maîtrise mastery, command, control, master's degree
+3443 arbitrage refereeing, umpiring, arbitration
+3445 réparation repair, repairing, correction, compensation
+3446 évêque bishop
+3448 solitude solitude, loneliness
+3452 missile missile
+3453 minuit midnight
+3454 composante component
+3457 trame weft, framework;
+tram
+3458 bain bath, bathing
+3459 sûreté safety, reliability
+3460 hâte haste, impatience
+3462 format format
+3463 hiérarchie hierarchy
+3464 estimation appraisal, valuation, assessment, estimate
+3465 mutation transfer, transformation, mutation
+3467 héroïne heroine
+3473 atteinte reach;
+attack, blow
+3477 guise wish;
+like, by way of
+3481 élan momentum, surge, rush;
+elk, moose
+3485 renouvellement replacement, recurrence, repetition
+3488 approbation approval
+3490 faisceau bundle, beam, stack
+3492 dégât damage
+3493 pilier pillar
+3498 jouet toy
+3499 formé formed
+3502 toile cloth, canvas, web
+3504 empreinte imprint, print, mark, impression
+3506 curiosité curiosity
+3507 passeport passport
+3509 livraison delivery
+3510 château castle
+3512 forum forum, newsgroup
+3515 éclat splinter, fragment, brightness, burst
+3517 thé tea
+3519 attachement attachment, affection
+3521 gamme range, scale
+3522 motivation motivation, application
+3523 protestation protest, protestation
+3524 demeure residence, home
+3528 peintre painter
+3531 bien-être well being
+3532 cap cape
+3539 allure speed, pace, walk, look, appearance
+3540 deuil mourning, grief
+3542 islamiste Islamist
+3543 prénom first name
+3546 rétablissement restoring, re-establishment, recovery
+3550 colonel colonel
+3551 næud knot
+3553 bâton tick, club, baton
+3557 querelle quarrel
+3559 flic cop
+3562 herbe grass, herb
+3565 bombardement bombing, shelling
+3566 bagage luggage, baggage
+3568 capitalisme capitalism
+3569 suspension hanging, suspending, breaking off, postponement, suspension
+3572 plume feather
+3577 trajet journey, route
+3579 pis worst
+3581 tueur killer, hit man
+3582 tournoi tournament
+3583 cimetière cemetery, graveyard
+3584 douane customs, duty
+3588 complicité complicity
+3590 flamme flame, fire, fervor, brilliance
+3592 dix-huit eighteen
+3593 nouveauté novelty, new release
+3599 alerte agile, alert, warning
+3600 renforcement reinforcement, strengthening
+3601 ange angel
+3604 certificat certificate
+3606 pénurie shortage
+3607 tirage drawing, circulation, run
+3608 perception perception, collection
+3610 planche plank, board
+3611 crédibilité credibility
+3612 fiction fiction
+3614 boisson drink, beverage
+3615 élaboration working-out, development
+3616 habitation residence, home, dwelling, housing
+3619 imposition taxation
+3621 ajustement adjustment
+3622 princesse princess
+3624 facilité easiness, ease, aptitude
+3627 répercussion repercussion
+3628 oncle uncle
+3629 viol rape
+3630 culte worship, cult
+3631 gosse kid
+3632 équipage crew, gear
+3634 canon gun, cannon
+3636 apprentissage learning, apprenticeship
+3638 chaussure shoe, sneakers
+3641 pâte paste, dough, pasta
+3642 cohésion cohesion
+3643 ruine ruin, ruins
+3645 rassemblement gathering, collecting, assembling
+3646 malentendu misunderstanding
+3648 pot jar, pot
+3649 règne reign
+3650 impulsion impulse, pulse
+3653 fossé ditch
+3654 dépens expense
+3659 interruption interruption, break
+3661 patrie homeland, home country
+3662 prélèvement imposition, levying, withdrawal, removal, deduction
+3664 studio studio, studio apartment
+3665 intégrité integrity
+3668 tribu tribe
+3669 globe globe
+3673 quinzaine about fifteen, two weeks
+3675 impatience impatience
+3676 logiciel software, program, application
+3679 préjugé prejudice, bias
+3681 renvoi dismissal, expulsion, suspension, cross-reference
+3682 charme charm
+3683 atout trump, asset
+3685 nord-ouest north-west
+3686 affaiblissement weakening
+3689 cauchemar nightmare, bad dream
+3691 venue coming
+3692 ballon ball
+3694 affrontement clash, confrontation
+3698 décor scenery, décor, set
+3699 compassion compassion
+3700 couronne crown, wreath
+3701 descente descent, raid, downward slope
+3702 plancher floor
+3703 trentaine about thirty
+3704 détresse distress
+3705 escalier stairs, staircase
+3706 barrage barrier, obstruction, dam, roadblock
+3707 néant nothingness
+3708 support support, stand
+3709 effondrement collapse, caving-in, falling-in, breaking-down
+3715 espérance hope
+3716 synthèse summary, synthesis
+3717 conjoncture situation, climate
+3719 baie bay;
+berry
+3720 récompense reward, award
+3721 étendue area, expanse, duration, extent, range
+3723 carnet notebook, notepad
+3724 banc bench, workbench, pew
+3726 assise basis, foundation
+3729 architecte architect
+3731 vedette star, patrol boat
+3733 séminaire seminar, seminary
+3736 assaut assault, attack, bout
+3737 couteau knife
+3740 propagation propagation, spreading
+3745 arbitre referee, arbiter, arbitrator
+3746 manteau coat, overcoat
+3747 implication implication
+3748 grand-père grandfather
+3749 reflet reflection, glint, highlight
+3750 requête request, petition
+3752 rideau curtain
+3754 manipulation handling, manipulation
+3756 assiette plate, dish, bowl
+3760 écu ecu
+3762 expédition dispatch, shipping, shipment, expedition
+3765 chant song
+3766 diplomatie diplomacy
+3767 lieutenant lieutenant
+3773 sud-ouest south-west
+3774 envergure wingspan, breadth, scope
+3775 touche button, key, touch, touchline
+3778 acheminement routing, shipment
+3780 hôte host, guest
+3782 confirmation confirmation
+3783 tapis carpet, mat, covering
+3784 corde rope, chord, string
+3787 divin divine, heavenly
+3791 boutique shop
+3794 autoroute motorway, highway, freeway
+3795 maternité maternity, motherhood
+3797 différend disagreement, controversy
+3799 comté county, earldom
+3801 quota quota
+3805 assistant assistant
+3806 portion portion, share
+3807 allocation allocation, granting, allotment, allowance
+3808 spéculation speculation
+3812 dix-sept seventeen
+3814 chauffeur driver, chauffeur
+3815 prospérité prosperity
+3816 ambiguïté ambiguity
+3820 cou neck
+3821 invention invention
+3822 boucle loop, buckle, curl
+3827 carton cardboard, card, score
+3829 pitié pity, mercy
+3830 complexité complexity
+3832 noyau core, nucleus, pit
+3836 audition hearing, examination, audition
+3837 comptabilité accountancy, accounting, book-keeping
+3839 trône throne
+3841 saut jump, leap
+3842 amende fine
+3844 programmation programming
+3846 justification justification, proof
+3847 conservation preservation, preserving, retention
+3848 transit transit
+3850 galerie gallery
+3851 aménagement development, planning, fitting, adjustment
+3852 manifestant protester, demonstrator
+3853 char tank
+3854 criminalité crime
+3856 masque mask
+3858 festival festival
+3861 franchise frankness, exemption, duty-free, franchise, deductible
+3867 tennis tennis
+3868 avenue avenue
+3869 vengeance revenge
+3873 réduit reduced, scaled-down, cut-down, tiny room, hideout
+3877 rapprochement bringing together, coming closer, parallel
+3878 confession confession
+3879 suspens suspension, abeyance
+3880 dégradation degrading, damaging, erosion;
+demotion
+3881 vingtième twentieth
+3882 agenda diary, planner
+3883 grand-mère grandmother
+3884 phare lighthouse, headlight
+3888 diagnostic diagnosis
+3889 poing fist, punch
+3890 étiquette label, ticket, etiquette, sticker, tag
+3891 tante aunt
+3892 chemise shirt, folder
+3893 pile pile, stack, battery, tails
+3894 kilo kilo
+3895 citoyenneté citizenship
+3896 douceur softness, smoothness, mildness, gentleness, sweetness
+3901 croix cross
+3906 censure censorship
+3910 main-d'æuvre manpower, labor, work force
+3911 invasion invasion
+3912 orange orange
+3913 jury jury, board of examiners
+3914 bæuf ox, steer, beef
+3916 roue wheel
+3921 soupçon suspicion
+3922 constat report, statement
+3923 communisme communism
+3924 dynamisme dynamism
+3926 paire pair
+3927 loup wolf
+3931 diplomate diplomat
+3932 joue cheek
+3937 handicap handicap
+3938 bonsoir good evening
+3939 casque helmet
+3943 conversion conversion
+3944 patte paw, foot, leg
+3948 prédécesseur predecessor
+3950 humour humor
+3951 défaillance fault, failure, breakdown, blackout, weakness
+3953 cabine hut, cubicle, booth, box, room
+3954 fardeau burden
+3955 héritier heir
+3956 apport supply, contribution
+3957 remboursement reimbursement
+3958 échelon rung, step, grade, echelon
+3960 occurrence instance, case, occurrence
+3967 panne breakdown, failure
+3968 adieu goodbye, farewell, adieu
+3969 entre-temps meanwhile, in the meantime
+3971 confrère colleague
+3972 litre litre
+3974 variation variation, change
+3976 groupement grouping, group, categorization
+3977 modernisation modernization
+3978 déploiement deployment, spreading, unfurling, display
+3980 restauration restoration;
+catering
+3982 marée tide
+3984 diable devil
+3985 suffrage vote
+3989 tristesse sadness, gloominess, dreariness
+3990 asile shelter, asylum, hospital
+3992 photographe photographer
+3994 archives archives, records
+3997 dix-neuvième nineteenth
+3998 indemnisation indemnification, compensation
+4000 leadership leadership
+4001 cahier notebook
+4004 qualification qualification
+4005 insulte insult
+4007 stage internship, training course
+4010 exil exile
+4011 artisan craftsman, selfemployed
+4013 remède cure, remedy
+4017 yen yen
+4018 gras fat
+4020 statue statue
+4021 frappe strike, striking, stamp, impression, punch
+4024 golfe gulf
+4025 ambiance atmosphere, mood
+4027 bus bus
+4028 septième seventh
+4029 façade front, façade
+4033 isolement loneliness, isolation, insulation
+4035 volant steering wheel
+4036 porc pig, pork
+4037 appartenance membership, belonging
+4038 émeute riot, rioting
+4041 ralentissement slowing down
+4042 mobilisation mobilization
+4044 racisme racism
+4045 mairie town hall, city hall
+4046 aptitude ability
+4047 fumée smoke
+4048 sauvetage rescue, salvaging
+4049 récession recession
+4051 sou penny
+4052 analyste analyst
+4055 ignorance ignorance
+4060 noyer walnut
+4061 abbé abbot, priest
+4068 nationalité nationality
+4069 serment oath, vow
+4071 pasteur minister, clergyman, pastor
+4073 chimie chemistry
+4075 fantôme ghost, phantom
+4080 vigilance vigilance, watchfulness
+4081 rock rock music
+4082 réconciliation reconciliation
+4083 revers back, reverse, setback
+4084 aviation aviation
+4085 souplesse suppleness, flexibility
+4087 trahison betrayal, treachery, treason
+4088 débit debit, turnover, delivery, rate
+4089 sursis reprieve, deferment
+4092 os bone
+4093 cote rating, share index, quoted value
+4094 dictionnaire dictionary
+4095 symptôme symptom
+4097 écoute listening
+4101 équité equity, fairly
+4105 fièvre fever
+4106 vitre pane, window
+4111 vapeur vapor, steam, steamer, steamship
+4112 beurre butter
+4113 monument monument
+4119 offensive offensive, offence
+4120 routine routine
+4122 gel frost, freezing, gel
+4123 rénovation renovation, restoration
+4124 controverse controversy
+4127 relais shift, relay
+4129 aval downstream
+4130 rubrique column, heading, rubric
+4131 préfet prefect
+4132 provocation provocation
+4134 versant hillside, mountainside
+4135 réticence reluctance, hesitation
+4136 grossesse pregnancy
+4138 timbre stamp
+4141 élargissement widening, letting-out, stretching, broadening
+4145 incidence effect, incidence
+4146 béton concrete
+4148 génocide genocide
+4149 vingt-quatre twenty four
+4153 poudre powder
+4154 teneur content
+4157 dérive drift
+4159 vocabulaire vocabulary
+4168 poitrine chest, breast, breasts, bosom
+4172 doctrine doctrine
+4174 majesté majesty
+4176 indifférence indifference
+4178 typique typical
+4180 désarmement disarmament, disarming
+4182 architecture architecture
+4183 éventualité eventuality, possibility
+4186 état-major staff, staff headquarters
+4191 surcroît increase
+4193 plomb lead
+4194 gorge throat
+4197 montre watch
+4199 exploit exploit
+4203 épidémie epidemic
+4204 alarme alarm
+4207 lunette telescope, glasses
+4208 entourage circle, entourage
+4209 sphère sphere
+4212 recrutement recruiting, recruitment
+4215 toilette washing, toilet, lavatory, bathroom, restroom
+4216 autobus bus
+4219 admiration admiration
+4222 poulet chicken
+4223 pêcher peach tree
+4224 brigade team, squad, brigade
+4226 reçu receipt, accepted
+4228 relance boost, reminder, recovery
+4229 dose dose, amount
+4230 loyer rent
+4231 distorsion distortion
+4233 arrivant arrival, comer
+4234 standard standard, switchboard
+4235 taxi taxi
+4236 limitation limitation, restriction, limit
+4242 commissariat police station
+4244 confrontation confrontation
+4248 panneau sign, notice, panel
+4249 appréciation appreciation, assessment, appraisal
+4251 complément complement
+4254 successeur successor
+4255 méfiance distrust, mistrust, suspicion
+4258 dictateur dictator
+4259 prétention claim
+4260 rédacteur editor, writer, drafter, compiler
+4262 extraction extraction
+4263 banquier banker
+4265 stabilisation stabilization
+4267 légion legion
+4268 lacune gap, deficiency
+4269 engin machine, tool, vehicle, device
+4273 cloche bell
+4274 compatriote compatriot
+4275 affection affection, ailment
+4276 sel salt
+4278 redressement straightening up, upturn, righting
+4279 paradoxe paradox
+4282 magistrat magistrate, judge
+4283 extrait extract, excerpt
+4284 amant lover
+4285 farce joke, prank, hoax, farce
+4286 compétitivité competitiveness
+4288 quarantaine about forty
+4289 sous-sol basement, lower ground floor, subsoil, underground
+4290 rat rat
+4291 flot floodtide, stream of, flood of
+4295 passe pass, channel
+4297 location renting
+4300 innocence innocence
+4301 bijou jewel
+4302 messe mass
+4303 coïncidence coincidence
+4304 torture torture
+4306 rayonnement radiance
+4307 récolte harvest, crop
+4308 valise suitcase
+4309 danseur dancer
+4310 expertise expertise
+4312 vitrine window, display cabinet
+4314 crâne skull
+4321 poule hen, chick
+4322 punition punishment
+4323 hésitation hesitation
+4326 renfort help, back-up, support
+4327 cohérence coherence, consistency
+4328 souris mouse
+4331 semestre semester, six-month period
+4336 tente tent
+4337 goutte drop
+4338 poussée push, rise, upsurge
+4339 moine monk, friar
+4342 vice fault, defect, vice
+4348 fidélité loyalty, faithfulness, accuracy, reliability
+4350 gestionnaire administrator, administrative
+4355 avancée advance, overhang
+4362 rapidité speed, quickness
+4363 localité town, village
+4364 récupération recovery, retrieval, salvage
+4366 rentabilité profitability
+4371 conte tale
+4372 évasion escape, evasion
+4373 repère reference, benchmark, landmark
+4376 ironie irony
+4377 serveur waiter, server
+4379 insuffisance inadequacy, insufficiency
+4380 librairie bookstore, bookshop
+4381 parenthèse parenthesis, bracket, aside
+4385 levée raising, levying, levee
+4388 nord-est north-east
+4389 substitution substitution, mix-up
+4396 altitude altitude, height
+4402 connerie crap, bullsh*t, stupidity
+4404 coude elbow
+4406 report postponement, deferment
+4407 créature creature
+4416 palier landing, level, flat
+4419 costume suit, costume, dress
+4420 thérapie therapy
+4421 reproche reproach
+4422 curé parish priest
+4423 contrôleur inspector, controller
+4424 soulagement relief
+4426 avalanche avalanche
+4427 mark mark
+4428 brèche breach, gap
+4429 incitation incitement, incentive
+4430 entraîneur coach, trainer
+4435 visa visa, stamp
+4436 vingt-cinq twenty five
+4437 péché sin
+4438 gendarme policeman
+4439 sécheresse dryness, drought
+4440 score score
+4441 goûter snack
+4443 juridiction jurisdiction, court of law
+4444 prostitution prostitution
+4445 fiche card, sheet, slip, form
+4446 déséquilibre imbalance
+4447 probabilité probability, likelihood
+4450 embargo embargo
+4452 brouillard fog, mist, haze
+4454 jet jet, throw, spray, nozzle
+4455 trêve truce
+4459 détachement detachment
+4461 panier basket
+4462 bouton button, knob, spot
+4464 fermeté firmness, solidness, steadiness
+4468 théologie theology
+4471 tache stain, spot, mark
+4472 tendresse tenderness, fondness
+4474 slogan slogan
+4475 fromage cheese
+4477 incapacité incompetence, incapability
+4479 parfum perfume, scent, fragrance
+4482 instinct instinct
+4483 barreau bar
+4486 parquet parquet floor, hardwood floor, prosecutor's office
+4487 navigation navigation
+4490 frustration frustration
+4491 cinquantaine about fifty
+4494 auto car
+4495 troupeau herd, flock
+4496 gendarmerie police force, police station
+4504 murs morals, customs, habits, manners, ways
+4505 cessez-le-feu ceasefire
+4507 boue mud
+4508 empereur emperor
+4510 déclin decline, deterioration
+4512 maintenance maintenance, servicing
+4514 pneu tire
+4515 fraude fraud
+4516 coton cotton
+4521 fraction fraction
+4522 impossibilité impossibility
+4524 nuance shade, hue, nuance
+4526 enquêteur investigator, pollster
+4529 bordel brothel, mess, chaos
+4531 versement payment
+4536 provision stock, supply
+4538 ceinture belt, waist
+4540 délibération deliberation, debate, consideration
+4542 seigneur lord
+4545 merveille marvel, wonder
+4547 démon demon, fiend
+4549 disponibilité availability
+4552 récepteur receiver, receiving
+4553 glissement sliding, slipping, skidding
+4554 auditeur auditor, listener
+4556 chocolat chocolate
+4558 obtention obtaining, achievement
+4560 chagrin grief, sorrow,
+4563 soupe soup
+4564 bravo bravo, well done
+4566 concitoyen fellow citizen
+4567 flèche arrow
+4568 libéralisation liberalization
+4569 complot plot, conspiracy
+4570 signataire signatory
+4571 ski ski, skiing
+4573 syndrome syndrome
+4574 météo weather forecast
+4578 soumission submission
+4581 romancier novelist
+4582 sorcier sorcerer, witch
+4583 consigne deposit, orders, detention
+4584 harmonie harmony
+4589 félicitation congratulation
+4591 lance lance
+4594 vélo bike, bicycle
+4595 fatigue tiredness, fatigue
+4596 instabilité instability
+4598 comte count
+4600 orchestre orchestra
+4602 dixième tenth
+4603 est east
+4607 fouet whip
+4609 fixation fixation, fixing
+4610 encadrement training, framing, supervision
+4618 retombée fallout, consequences, effects
+4621 éventail fan, range
+4622 solde balance;
+pay;
+sale
+4624 régiment regiment
+4626 bouleversement upheaval
+4630 instituteur school teacher
+4633 coulisse backstage, wings, behind the scenes
+4635 ratification ratification
+4636 emplacement site, location
+4639 renouveau renewal
+4642 spécification specification
+4643 documentation documentation, literature
+4645 spectre spectrum, ghost
+4649 débouché prospect, opportunity, opening
+4651 fléau scourge, plague
+4652 traversée crossing
+4654 secrétariat secretaryship, secretariat, secretarial offices, secretary's office
+4659 soif thirst
+4660 accumulation accumulation, amassing, storage, stockpiling, build-up
+4662 essor expansion, development, flight
+4665 rébellion rebellion
+4667 désignation designation
+4669 conformité conformity
+4670 pantalon trousers, pants
+4674 réservoir tank, reservoir
+4675 aveu confession
+4677 inondation flood, deluge
+4678 câble cable, wire
+4679 poumon lung
+4681 perturbation disruption, disturbance
+4683 illustration illustration
+4687 cordon cord, string, lead
+4692 plate-forme platform
+4696 tremblement shiver, trembling, shaking
+4697 rail rail, track
+4699 lampe lamp, light
+4703 multiplication multiplication
+4705 cliché cliché;
+negative
+4706 diamant diamond
+4710 planification planning
+4711 éloge praise
+4712 regroupement regrouping, reassembly
+4716 configuration configuration, layout
+4719 scepticisme scepticism
+4720 croisière cruise
+4722 athlète athlete
+4723 poil hair, bristle
+4728 islam Islam
+4731 implantation implanting, setting up, establishment, implantation, installation
+4735 trottoir pavement
+4736 vieillard old man
+4737 fillette little girl, girl
+4739 singe monkey
+4743 fourniture supply, provision
+4745 milice militia
+4746 foire fair
+4748 crème cream
+4749 mentalité mentality
+4750 charité charity
+4751 borne milestone, boundary stone
+4755 mobilité mobility
+4756 exclu outcast
+4757 boucher butcher
+4759 commencement beginning, start
+4760 licenciement dismissal, sacking
+4761 chancelier chancellor
+4762 retenue deduction;
+restraint, self-control
+4763 visée aim, design, sighting
+4764 dénonciation denunciation
+4765 plaie wound
+4767 rocher rock, boulder
+4768 mortalité mortality, death rate
+4769 cruauté cruelty
+4773 confort comfort
+4775 tube tube
+4776 coffre trunk, boot, chest
+4778 huitième eighth
+4783 annulation cancellation, annulment
+4784 acceptation acceptance
+4787 chirurgien surgeon
+4788 orage storm, thunderstorm
+4789 boule ball
+4790 médiation mediation, arbitration
+4792 hall foyer, lobby
+4794 semblant semblance, pretence
+4798 dilemme dilemma
+4799 progressiste progressive
+4800 ours bear
+4804 duc duke
+4806 stress stress
+4813 vieillesse old age
+4814 navette shuttle
+4816 batterie battery;
+drum set
+4817 foie liver
+4820 détour bend, curve, detour
+4821 boulevard boulevard
+4822 blague joke
+4823 mécontentement displeasure, dissatisfaction
+4825 repli bend, twist, wrinkle, fold, fallback
+4826 contrepartie counterpart, opposite, alternative
+4828 aboutissement outcome, result
+4829 triomphe triumph
+4830 libre-échange free trade
+4831 sincérité sincerity
+4832 serre greenhouse
+4834 convoi convoy, train
+4836 psychologie psychology
+4838 puits well, shaft, pit
+4839 intimité privacy, intimacy
+4840 équation equation
+4842 bétail livestock, cattle
+4843 prophète prophet
+4844 micro mike, micro, microphone
+4849 embauche job vacancy, hiring
+4850 verdict verdict
+4851 dix-neuf nineteen
+4855 détente release, relaxation, détente, loosening
+4858 préjudice loss, harm, damage
+4860 exploration exploration, investigation, examination
+4862 hymne hymn, anthem
+4864 famine famine
+4866 précipitation haste, precipitation
+4867 caution deposit, guarantee, bail
+4868 affectation appointment, allocation;
+show, pretence
+4870 cave cellar, basement
+4871 bond leap, rebound
+4873 nettoyage cleaning, cleansing
+4874 foudre lightning
+4875 justesse accuracy, precision
+4876 rente annuity, pension
+4877 hépatite hepatitis
+4879 clan clan
+4880 accélération acceleration
+4881 garage garage
+4885 obscurité darkness
+4887 soixante-dix seventy
+4891 jungle jungle
+4892 case box, hut, field
+4895 crête crest, top, ridge
+4896 traite trade, draft, stretch, milking
+4897 démarrage start, moving off
+4898 oubli forgetting, leaving behind, missing
+4899 procès-verbal minutes, statement
+4900 formalité formality
+4903 émetteur transmitter, issuer
+4904 montage assembly, setting, pitching, putting, editing
+4907 simplicité simplicity, straightforwardness
+4909 bulle bubble
+4911 promoteur promoter, instigator, developer
+4913 obsession obsession
+4915 voisinage neighborhood
+4916 savoir-faire know-how
+4920 munition ammunition, supplies
+4922 compliment compliment
+4925 cassette cassette
+4926 résident foreign national, foreign resident
+4933 cage cage
+4935 téléspectateur TV viewer
+4936 golf golf, golf course
+4940 réveil waking up, awakening, alarm clock
+4945 détérioration deterioration
+4953 cirque circus;
+cirque
+4954 législature legislature
+4959 allégement lightening, unweighting, reduction
+4962 sérénité serenity, peacefulness
+4967 piano piano
+4968 concertation meeting, consultation
+4969 vaisseau ship, vessel
+4970 interaction interaction
+4972 sillage wake, slipstream
+4983 céréale cereal
+4985 agitation agitation, excitement
+4986 exode exodus
+4987 aire surface, area
+4988 orgueil pride
+4989 socialisme socialism
+4990 harmonisation harmonization
+4992 cocktail cocktail, cocktail party
+4993 moyenne average
+4995 compression compression;
+cutback, reduction
+Nouns/adjectives
+24 tout all
+28 autre other
+56 premier first
+59 grand great, big, tall
+87 dernier last
+128 politique politics;
+political
+138 petit small, little
+147 général general
+152 jeune young
+194 meilleur better, best
+202 long long, lengthy
+212 simple simple
+215 important important
+216 présent present
+227 national national
+237 propre clean, proper
+251 français French
+261 économique economic, economical
+264 haut top, high
+274 mauvais bad, wrong
+282 international international
+285 public public, audience
+286 humain human
+292 vrai true
+296 difficile difficult
+301 social social
+304 juste just, only;
+fair
+305 étranger foreigner;
+foreign
+335 clair clear
+374 américain American
+380 prochain next
+381 particulier particular, peculiar;
+person
+394 plein full
+398 personnel personnel, personal
+400 parti party
+412 sérieux serious
+419 gros big
+433 intérieur interior, inside
+443 grave serious, grave
+445 européen European
+451 nécessaire necessary, required
+455 entier whole, full
+458 principal principal
+467 ami friend
+468 bas low
+484 futur future
+501 passé past
+511 responsable responsible
+546 parent parent
+572 noir black
+574 double double
+592 technique technique, technics, technical
+599 riche rich
+607 gauche left
+611 canadien Canadian
+619 contraire opposite, contrary
+622 local local
+625 extérieur exterior
+640 directeur director
+643 précis precise
+652 impossible impossible
+658 total total
+665 réel real
+672 rapide fast, quick
+675 essentiel essential
+688 financier financial, financier
+690 militaire military
+699 pauvre poor
+703 matériel material, equipment
+723 faible weak
+743 pire worse, worst
+760 naturel natural
+764 heureux happy, lucky, fortunate
+780 commun common
+784 anglais English
+796 secret secret
+820 précédent precedent;
+previous
+828 fédéral federal
+838 proche nearby, close
+839 direct direct
+842 pratique practice, pratical
+844 allemand German
+876 supérieur superior
+879 capital major, chief, principal;
+capital, assets
+902 historique historical
+908 commercial commercial
+909 critique criticism, critic, critical
+929 civil civil;
+civilian
+933 complexe complex
+949 positif positive
+950 scientifique scientific
+954 indépendant independent
+979 voisin neighbor
+987 rouge red
+992 central central
+996 officiel official
+1000 professionnel professional
+1002 animal animal
+1029 dur hard
+1060 vert green
+1063 sensible sensitive
+1064 étudiant student
+1066 malade ill, sick
+1080 libéral liberal
+1081 citoyen citizen
+1107 logique logic, logical
+1119 violent violent
+1121 suivant following
+1131 industriel industrial
+1132 vif lively
+1138 tendre tender
+1146 physique physical, physics
+1160 relatif relative
+1163 maximum maximum
+1164 moteur motor
+1169 régional regional
+1175 profond deep
+1183 égal equal
+1191 vivant alive, living
+1203 religieux religious
+1214 parlementaire parliamentary;
+member of parliament
+1219 actif active
+1224 collectif collective
+1226 moral moral, morale
+1229 puissant powerful
+1239 moderne modern
+1254 immédiat immediate
+1255 exceptionnel exceptional
+1259 producteur producer
+1265 policier policeman
+1270 extrême extreme
+1277 précieux precious
+1284 absolu absolute
+1296 britannique British
+1306 majeur major
+1307 froid cold
+1318 quotidien daily
+1325 russe Russian
+1327 ordinaire ordinary
+1341 travailleur worker
+1343 dirigeant leader
+1349 populaire popular
+1392 inquiet worried, anxious
+1401 privé private
+1404 législatif legislative
+1410 minimum minimum
+1411 criminel criminal
+1414 solide solid
+1429 idéal ideal
+1442 coupable guilty
+1451 inconnu unknown
+1453 montant upright, upwards, sum, total
+1459 exemplaire exemplary;
+copy
+1461 final final
+1468 israélien Israeli
+1470 pareil similar, likewise;
+peer, equal
+1473 vide empty
+1477 italien Italian
+1493 vague vague;
+wave
+1501 contenu contents
+1510 juif Jew, Jewish
+1520 négatif negative
+1533 tiers third
+1536 occidental western
+1546 interne internal, interior, intern
+1557 expert expert
+1569 patient patient
+1575 quart quarter
+1578 catholique Catholic
+1580 adulte adult
+1588 spécialiste specialist
+1600 parfait perfect
+1605 incapable incapable, incompetent
+1608 universel universal
+1614 inutile useless
+1618 prisonnier prisoner, captive
+1627 étonnant surprising, amazing, incredible
+1643 pur pure
+1660 concret concrete
+1666 espagnol Spanish
+1674 soviétique Soviet
+1675 volontaire volunteer;
+voluntary
+1679 indien Indian
+1681 définitif definitive, final
+1696 communiste communist
+1702 saint saint, holy
+1703 conséquent logical, rational, consistent
+1715 ennemi enemy
+1731 calme calm
+1760 massif massive
+1768 socialiste socialist
+1792 potentiel potential
+1794 intellectuel intellectual
+1797 artiste artist
+1802 fidèle faithful
+1809 administratif administrative
+1810 effectif effective;
+size, workforce
+1814 original original
+1844 latin Latin
+1845 classique classic
+1852 chaud warm, hot
+1861 ouvrier worker
+1865 immeuble building
+1871 partiel partial
+1877 délicat delicate, fine, gentle
+1895 chrétien Christian
+1905 inférieur inferior
+1913 irakien Iraqi
+1914 chinois Chinese
+1924 gardien guardian, keeper
+1927 conservateur conservative
+1961 chercheur researcher
+1970 québécois Quebecker, Quebecer, Québécois
+1978 semblable similar
+1992 allié allied;
+ally
+1994 arabe Arabic, Arab
+2003 joueur player
+2016 absent absent
+2022 suprême supreme
+2023 éventuel possible
+2026 grec Greek
+2027 secondaire secondary
+2029 partisan partisan, supporter
+2042 tragique tragic
+2043 anniversaire anniversary, birthday
+2046 nôtre ours, our own
+2049 infirmier nurse
+2050 caractéristique characteristic
+2059 innocent innocent
+2062 doux soft, sweet
+2069 croissant growing, crescent, crescent-shape
+2072 multiple multiple
+2078 dynamique dynamic
+2094 prime free gift, premium, bonus
+2097 japonais Japanese
+2101 marin sea, marine, sailor
+2102 intermédiaire intermediate, intermediary
+2119 salarié wage-earning, employee
+2127 radical radical
+2146 réformiste reformist
+2153 uni united
+2159 étrange strange, odd
+2165 mien mine
+2172 légitime legitimate
+2182 mental mental
+2184 provincial provincial
+2191 plastique plastic
+2192 autonome autonomous, independent
+2195 électronique electronic
+2196 parallèle parallel, similar
+2198 courageux courageous
+2201 ordinateur computer
+2203 blessé injured
+2210 sien his, hers
+2231 incroyable incredible, unbelievable
+2233 mineur minor;
+miner
+2239 concurrent competitor, rival
+2240 prévu planned
+2245 musulman Muslim, Moslem
+2249 constitutionnel constitutional
+2259 génétique genetic
+2264 perdu lost, stray, wasted
+2265 obligé necessary, required
+2268 rond round
+2271 bébé baby
+2283 géant giant, gigantic
+2289 africain African
+2291 mobile mobile, portable
+2314 arrêté decree, order
+2317 paysan farmer, peasant
+2329 passager passenger, temporary
+2341 sacré sacred
+2369 littéraire literary
+2372 malheureux unhappy, miserable
+2379 marchand merchant
+2381 féminin feminine
+2387 autochtone native, indigenous peoples
+2407 automobile automobile
+2410 excessif excessive, inordinate
+2411 ridicule ridiculous, silly
+2416 retrait withdrawal
+2424 curieux curious
+2431 préalable prior, previous, preliminary, prerequisite
+2443 champion champion
+2452 inverse opposite, reverse
+2456 enseignant teacher
+2464 sauvage savage, wild
+2466 prétexte pretext
+2471 révolutionnaire revolutionary
+2476 équivalent equivalent
+2479 militant militant
+2480 participant participant
+2495 amoureux in love, amorous
+2500 mortel mortal, deadly, lethal
+2512 absurde absurd
+2516 tenant tenant;
+incumbent, holder
+2523 utilisateur user
+2525 terminal terminal
+2527 primaire primary
+2532 adjoint assistant, deputy
+2549 parisien Parisian
+2557 contemporain contemporary
+2558 exclusif exclusive, sole
+2567 pétrolier oil;
+oil tanker
+2571 suspect suspicious, suspect
+2585 jaune yellow
+2588 informatique computer science, computing
+2591 bête animal, beast;
+stupid
+2592 indicateur indicator
+2606 tactique tactics, tactical
+2613 créateur creator
+2621 rebelle rebel, rebellious
+2629 voyageur traveler
+2630 réaliste realist, realistic
+2643 sage wise, good, sound, sensible
+2645 correspondant correspondent
+2662 antérieur previous, earlier, front
+2670 sportif sports, athletic, competitive
+2671 rose rose;
+pink
+2681 meurtrier murderer, deadly, lethal
+2687 observateur observer, observant
+2696 tissu fabric, material, cloth, tissue, woven
+2697 souverain sovereign, supreme ruler, monarch
+2706 accusé defendant
+2709 rural rural
+2712 diplomatique diplomatic
+2715 oriental Oriental
+2718 républicain republican
+2721 intéressé concerned, involved
+2736 variable variable
+2741 détenu prisoner
+2747 éthique ethical, ethics
+2751 optimiste optimistic
+2753 isolé remote, isolated, insolated
+2756 bizarre strange, odd
+2759 pêcheur fisherman
+2766 brut raw, crude
+2769 gris grey
+2770 aise comfort, joy, pleasure, ease
+2782 universitaire university, academic
+2786 aîné oldest, eldest
+2795 belge Belgian
+2796 brutal brutal
+2817 con stupid
+2832 gentil nice, kind
+2841 agréable pleasant, nice, agreeable
+2854 sourd deaf
+2862 fixe fixed
+2876 clinique clinic
+2880 chéri darling, love, dear
+2905 ambitieux ambitious, man with ambition
+2906 sale dirty
+2918 dramatique dramatic, tragic, drama
+2933 lointain distant, faraway
+2953 transparent transparent, see-through, evident
+2954 élu elected, elected member
+2985 dit said, so-called;
+tale
+2992 clandestin underground, clandestine
+3003 abonné subscribed, subscriber
+3047 spirituel witty, spiritual, sacred
+3053 nazi Nazi
+3059 agressif aggressive
+3072 conducteur driver, operator, conductor
+3078 chronique chronic, column, page, chronicle
+3083 ethnique ethnic
+3095 aveugle blind
+3100 musicien musician
+3101 routier road, long-distance lorry or truck driver
+3105 prématuré premature
+3114 systématique systematic
+3135 incertain uncertain, unsure
+3142 conventionnel conventional
+3153 passif passive, liabilities
+3162 carré square, broad, plain
+3163 voleur thief, light-fingered
+3181 optique optical, optic, perspective
+3184 méchant nasty, wicked, mean
+3192 horaire schedule, timetable, hourly
+3207 nu naked, nude
+3230 panique panic
+3251 chanteur singer
+3253 écrit writing
+3259 prioritaire priority, having priority, having right of way
+3261 exécutif executive
+3277 asiatique Asian
+3283 bénéficiaire beneficiary
+3290 silencieux silent, noiseless, silencer
+3291 continu continuous
+3302 survivant survivor, surviving
+3312 mystérieux mysterious, secretive
+3317 conjoint spouse, joint
+3324 compliqué complicated, complex
+3337 couvert covered, overcast;
+place, seat, cutlery
+3345 primitif primitive
+3353 monstre monster
+3362 célibataire single, unmarried
+3371 politicien politician
+3377 infini inifinite, infinity
+3378 savant scientist, scholar;
+learned, scholarly, clever, skilful
+3405 iranien Iranian
+3411 symbolique symbolic
+3414 préliminaire preliminary, introductory
+3433 éternel eternal, everlasting
+3434 intime intimate, close, secret, private
+3438 mathématique mathematical;
+mathematics
+3450 superbe superb, magnificient, handsome, gorgeous
+3455 veuf surviving spouse
+3468 esclave slave
+3469 marocain Moroccan
+3470 menu menu, slender, slim, minor
+3471 imaginaire imaginary
+3482 nominal nominal
+3486 noble noble
+3487 hebdomadaire weekly
+3489 protestant Protestant
+3494 animateur animator, host
+3500 complice accomplice
+3501 homosexuel homosexual
+3508 creux hollow, empty, hole
+3520 liquide liquid
+3534 maigre thin, skinny, slim, lean
+3547 cynique cynical, cynic
+3549 constructeur builder, manufacturer
+3554 démocrate democrat, democratic
+3556 idiot idiot, fool, stupid
+3558 explosif explosive
+3560 solitaire solitary, lone, lonely
+3567 singulier unique, singular
+3573 publicitaire advertising, promotional
+3578 sinistre disaster, sinister
+3585 domestique servant, domestic
+3596 déterminé determined, resolute, specific
+3597 ménager to handle, arrange, domestic
+3598 millénaire millennium, thousand-year-old
+3603 immobilier property, real estate, property business, real estate business
+3609 philosophe philosopher
+3613 handicapé disabled, handicapped
+3633 carburant fuel
+3635 prometteur promising
+3656 descendant downward, descending, descendant
+3660 polonais Polish
+3672 familier familiar, informal
+3680 impératif need, necessity, urgent, imperative
+3684 portugais Portuguese
+3714 bienvenu welcome
+3722 tiens ah, well
+3727 énergétique energetic, vigorous
+3732 intervenant contributor, intervener
+3735 nerveux nervous, irritable
+3738 arbitraire arbitrary
+3741 masculin male, masculine
+3757 gigantesque gigantic, immense
+3758 rival rival
+3764 protégé protected, protégé
+3776 déterminant determining, deciding, crucial
+3777 sous-marin submarine, underwater
+3779 externe external, outer
+3781 assassin murderer, assassin
+3785 notable notable, noteworthy
+3786 rationnel rational
+3790 exposé account, statement, talk
+3793 tchèque Czech
+3817 bourgeois middle class
+3831 favori favourite, favorite
+3835 timide timid, shy, bashful
+3849 organisateur organizer, organizing
+3875 vierge virgin
+3876 meuble piece of furniture
+3886 gagnant winner, winning
+3907 linguistique linguistic, linguistics
+3931 diplomate diplomat, diplomatic
+3963 irlandais Irish
+3973 suivi follow-up;
+consistent, continuous
+3979 impuissant powerless, helpless
+3987 joyeux merry, joyful, happy
+3993 libanais Lebanese
+3996 rapporteur telltale, rapporteur
+4014 composant component, constituent
+4031 marginal marginal
+4032 comptable accountant, accountable
+4040 minime minor, minimal
+4053 prétendu so-called, alleged
+4056 pervers pervert, perverse, perverted
+4064 sceptique sceptical, sceptic
+4065 vôtre yours
+4066 problématique problematic;
+problem
+4077 yougoslave Yugoslav, Yugoslavian
+4098 contingent contingent, draft, quota
+4102 inconscient unconscious, thoughtless
+4107 fantastique fantastic, terrific, great, weird, eerie
+4108 courbe curve, curved
+4114 oral oral
+4117 muet mute, silent, dumb
+4118 contrevenant offender, offending
+4125 médiocre mediocre, second-rate
+4128 opposant opponent, opposing
+4133 sommaire summary, brief, cursory
+4137 égyptien Egyptian
+4140 distributeur distributor, machine
+4143 colonial colonial
+4151 indifférent indifferent, unconcerned, unimportant
+4152 audacieux daring, audacious, bold
+4158 mécontent discontented, dissatisfied, displeased
+4161 délégué delegate
+4163 algérien Algerian
+4164 sympathique likeable, nice, pleasant
+4167 commerçant shopkeeper, merchant, commercial
+4175 mouton sheep
+4178 typique typical
+4185 réciproque mutual, reciprocal, the opposite
+4190 séparatiste separatist
+4192 sortant outgoing
+4195 nationaliste nationalist
+4196 exportateur exporter, exporting
+4218 résistant robust, sturdy, resistance fighter
+4220 acide acid
+4239 furieux furious, raging, violent
+4246 atlantique Atlantic
+4247 rude rough, harsh, hard, tough
+4250 réflexe reflex
+4253 comédien comedian, comedy
+4257 vérificateur checker, inspector, auditor
+4264 titulaire holder, with tenure, occupant
+4271 minoritaire minority
+4298 naïf naïve, innocent
+4299 retraité retired
+4305 protecteur protective, protector, guardian
+4318 combustible fuel, combustible
+4332 croyant believer
+4333 réalisateur director
+4340 modéré moderate, restrained, reasonable
+4346 commandant commander
+4352 immigrant immigrant
+4353 polémique controversial, controversy
+4357 jumeau twin
+4369 affreux dreadful, awful, horrible
+4383 stupéfiant drug, narcotic;
+stunning, astounding
+4384 boursier grant-holder, scholarship holder;
+stock
+4391 avantageux profitable, worthwhile, advantageous, attractive
+4394 délinquant delinquent, offender
+4395 perdant losing, loser
+4399 poétique poetic, poetical, poetics
+4401 mensuel monthly
+4411 itinéraire itinerary, route
+4431 éditorial editorial
+4451 interdit prohibited, banned
+4453 syrien Syrian
+4456 occupant occupant, occupier, occupying
+4458 défini definite
+4473 privilégié privileged
+4476 toxique toxic, toxin
+4478 pharmaceutique phamarceutical
+4480 antique antique, ancient
+4493 désespéré desperate, hopeless
+4498 analogue similar, analogous
+4501 sanitaire health, sanitary, medical
+4502 sonore sound, resonant, sonorous, voiced
+4506 bénévole volunteer, voluntary, unpaid
+4523 conditionnel conditional
+4530 impatient impatient
+4541 mexicain Mexican
+4544 souterrain underground, underground passage
+4551 acquis acquired, experience
+4555 indigène native, local
+4561 prostitué prostitute
+4572 douanier customs officer
+4585 blond blond, fair-haired
+4590 inédit unpublished;
+original, new
+4612 esthétique aesthetics, attractiveness;
+attractive
+4614 insensé insane
+4625 chiite Shiite
+4640 néerlandais Dutch
+4647 suédois Swedish, Swede
+4650 croisé twill;
+alternate;
+crusader;
+crossed
+4657 détenteur holder, possessor, bearer
+4658 basque Basque
+4671 anormal abnormal
+4685 fermier farmer
+4694 kurde Kurd, Kurdish
+4695 amusant funny, amusing, entertaining
+4700 triple triple
+4707 guerrier warrior;
+warlike
+4709 comique comical;
+comic, comedian
+4715 nocturne nocturnal, nocturne
+4718 intensif intensive
+4727 informé informed
+4782 graphique graph, graphic
+4785 textile textile
+4805 raciste racist
+4809 danois Danish, Dane
+4835 terrien earthling;
+landowner, countryman
+4845 gâteau cake
+4854 anglo-saxon Anglo-Saxon
+4869 salaud bastard
+4883 négociateur negotiator
+4884 romantique romantic
+4886 vulgaire vulgar, common, popular
+4912 albanais Albanian
+4919 vendu sold, bribed
+4932 rhétorique rhetorical, rhetoric
+4937 forestier forest, forester
+4943 relevé statement, list;
+relieved;
+put in relief;
+rolled up
+4947 cochon pig
+4948 barbare barbaric;
+barbarian
+4955 audiovisuel audio-visual
+4960 malin smart, shrewd, cunning
+4971 pessimiste pessimistic;
+pessimist
+4973 synonyme synonymous;
+synonym
+4976 comble despair;
+summit, overmeasure;
+roof
+4977 bosniaque Bosnian
+Verbs
+5 être to be, being
+8 avoir to have
+20 pouvoir can, to be able to
+25 faire to do, make
+27 mettre to put, place
+37 dire to say
+39 devoir to have to owe
+43 prendre to take
+46 donner to give
+53 aller to go
+57 vouloir to want
+67 savoir to know
+68 falloir to take, require, need
+69 voir to see
+80 demander to ask for
+83 trouver to find
+85 rendre to render, return, yield, give up
+88 venir to come
+90 passer to pass
+95 comprendre to understand
+100 rester to stay
+104 tenir to hold
+105 porter to wear, carry
+106 parler to speak
+108 montrer to show
+113 continuer to continue
+116 penser to think
+120 suivre to follow
+133 connaître to know
+135 croire to believe
+139 commencer to begin, start
+140 compter to count
+149 entendre to hear
+155 attendre to wait
+156 remettre to deliver, replace, set, put
+157 appeler to call
+158 permettre to allow
+159 occuper to occupy
+162 devenir to become
+163 partir to leave
+165 décider to decide
+174 arriver to arrive, happen
+177 servir to serve
+180 sembler to seem
+184 revenir to come back
+196 laisser to leave
+199 recevoir to receive
+200 répondre to answer
+201 vivre to live
+208 rappeler to recall, call back
+209 présenter to present
+210 accepter to accept
+211 agir to act
+218 poser to put, pose, ask
+219 jouer to play
+221 reconnaître to recognize
+224 offrir to offer
+226 choisir to choose
+231 toucher to touch
+242 aimer to like, love
+244 retrouver to find, recall
+250 perdre to lose
+252 expliquer to explain
+255 considérer to consider
+257 ouvrir to open
+258 gagner to win, earn
+269 exister to exist
+271 refuser to refuse
+278 lire to read
+279 réussir to succeed
+283 changer to change
+290 travailler to work
+293 représenter to represent
+302 assurer to assure, insure
+303 essayer to try
+306 empêcher to prevent
+309 sortir to go out, leave
+313 reprendre to resume, recover, start again, take back
+316 mener to lead
+319 appartenir to belong
+322 risquer to risk
+324 concerner to concern
+327 apprendre to learn
+329 rencontrer to meet
+332 créer to create
+334 obtenir to get, obtain
+336 chercher to look for
+337 entrer to enter, go in, come in
+338 proposer to propose
+339 apporter to bring
+345 utiliser to use
+346 atteindre to reach
+347 tenter to tempt, try
+354 importer to import;
+to be important
+359 ajouter to add
+367 produire to product
+368 préparer to prepare
+376 relever to raise
+382 écrire to write
+385 défendre to defend, forbid
+391 tirer to pull, fire
+395 juger to judge
+396 éviter to avoid
+403 souhaiter to wish
+408 engager to hire, involve
+409 réaliser to realize, achieve
+413 aider to help, assist
+415 terminer to finish, end,
+417 espérer to hope
+420 arrêter to stop, arrest
+425 regarder to look, watch
+429 écouter to listen to
+431 valoir to be worth
+437 prévoir to foresee, anticipate
+448 remplacer to replace
+449 avancer to advance, move forward
+454 marquer to mark
+459 élever to grow, lift, raise
+462 cesser to cease, stop
+463 poursuivre to pursue
+464 maintenir to maintain
+466 exprimer to express
+469 imposer to impose
+486 former to form
+487 conduire to lead, drive
+493 disparaître to disappear, vanish
+494 priver to deprive
+495 constituer to constitute
+498 lier to link, join
+499 obliger to require, force, oblige
+500 craindre to fear, be afraid of
+503 déclarer to declare
+504 oublier to forget
+507 quitter to leave
+514 lancer to throw, launch
+519 paraître to appear
+521 annoncer to announce
+526 envoyer to send
+527 partager to share
+529 établir to establish
+531 garder to keep
+533 interdire to forbid, prohibit, ban
+534 finir to finish
+535 placer to place
+536 sentir to feel, smell
+537 payer to pay
+540 diriger to lead, direct
+541 noter to note, notice
+544 charger to load, charge
+547 tomber to fall
+550 entraîner to carry along, train
+551 disposer to arrange, set
+557 retenir to retain, hold back, remember
+559 intéresser to interest, involve
+565 parvenir to reach, achieve
+575 convaincre to convince
+578 soutenir to sustain, support
+583 manquer to miss
+585 opposer to oppose
+586 signifier to mean
+589 traiter to treat, handle, deal with
+590 indiquer to indicate, signal
+591 tuer to kill
+595 réduire to reduce
+597 préférer to prefer
+601 nommer to call, name, appoint
+605 durer to last
+613 livrer to deliver
+616 souvenir to remember
+624 inviter to invite
+630 répéter to repeat
+632 profiter to take advantage, profit
+635 prouver to prove
+636 acheter to buy
+639 ignorer to ignore
+642 souffrir to suffer
+644 fixer to fix, arrange, set
+649 estimer to estimate;
+to consider, deem
+655 amener to bring
+656 viser to aim
+657 retirer to remove, withdraw
+664 conserver to keep, preserve
+667 naître to be born
+668 accorder to grant
+669 tourner to turn
+670 participer to participate
+673 respecter to respect
+676 adopter to adopt
+677 subir to undergo, be subjected to, suffer
+680 admettre to admit
+681 découvrir to discover
+682 couvrir to cover
+683 assister to attend;
+assist, help
+685 dépasser to pass, go beyond
+686 affirmer to affirm, maintain, declare, allege
+687 soumettre to submit
+693 apparaître to appear
+695 réserver to reserve, keep
+701 organiser to organize
+702 posséder to possess, own, have
+705 constater to note, notice;
+to establish, certify
+706 prononcer to pronounce
+710 vendre to sell
+714 déplacer to move, displace
+716 suffire to be sufficient, suffice
+719 saisir to take hold of, grab
+722 mourir to die
+724 employer to use, employ
+727 accompagner to accompany
+730 supposer to suppose, assume
+731 fournir to provide, supply
+733 exiger to require, demand
+734 intervenir to intervene
+737 discuter to discuss, debate;
+to question
+739 protéger to protect
+740 abandonner to give up, abandon
+742 battre to beat, hit
+744 adresser to address
+745 préciser to state, specify, clarify
+747 attirer to attract
+748 demeurer to remain, live
+750 consacrer to devote, consecrate
+751 remplir to fill, fulfill
+753 appliquer to apply
+754 frapper to hit, strike, knock
+757 fermer to close, shut
+758 forcer to force
+767 résoudre to solve, resolve
+768 publier to publish
+771 pousser to push
+776 reposer to rest
+781 satisfaire to satisfy
+788 observer to observe, watch
+790 désigner to designate
+791 dépendre to depend
+793 construire to build, construct
+804 plaire to please
+809 signer to sign
+810 révéler to reveal
+811 couper to cut
+815 situer to situate, locate
+816 souligner to underline, stress
+821 installer to install
+823 augmenter to increase, raise
+824 réunir to gather, reunite, raise
+837 lever to lift, raise
+840 imaginer to imagine
+841 figurer to represent, appear
+850 envisager to view, contemplate
+853 monter to go up, rise, assemble
+854 promettre to promise
+856 concentrer to concentrate
+858 composer to compose, dial
+873 confier to entrust
+874 remarquer to remark;
+to notice, point out
+878 condamner to condemn
+883 limiter to limit
+884 justifier to justify
+890 raconter to tell
+892 développer to develop
+895 conclure to conclude
+899 insister to insist
+911 baisser to lower, turn down, bend down
+914 cacher to hide
+915 prêter to lend
+916 définir to define
+918 exposer to display, exhibit, expose
+922 rapporter to bring back, report
+923 appuyer to lean, support
+925 rentrer to go in, come in, come back, return
+928 détruire to destroy
+940 échapper to escape
+946 séparer to separate
+957 régler to pay, adjust, settle
+959 commander to order, command
+960 étudier to study
+961 déterminer to determine, find out, specify
+963 fonder to found, set
+966 exercer to exercise, exert, practice, carry out
+968 manifester to show, demonstrate, display
+969 menacer to threaten
+970 conseiller to advise
+981 rejeter to reject
+984 coûter to cost
+989 autoriser to authorize
+990 effectuer to carry out, undergo
+999 retourner to return, go back
+1004 inscrire to register, write down
+1007 rejoindre to rejoin, reunite
+1014 confirmer to confirm
+1017 contribuer to contribute
+1018 attaquer to attack
+1020 remonter to go back up
+1027 susciter to arouse, provoke
+1031 lutter to struggle, fight
+1033 contenir to contain
+1034 déposer to deposit, put down
+1035 modifier to modify, adjust
+1040 traverser to cross, traverse
+1041 transformer to transform
+1047 renvoyer to send back, dismiss
+1048 regretter to regret
+1051 consister to consist
+1052 réagir to react
+1053 surprendre to surprise
+1056 améliorer to improve
+1058 réfléchir to reflect
+1061 apprécier to appreciate
+1069 contrôler to control, check, inspect, monitor
+1078 contenter to satisfy, please
+1082 citer to quote
+1088 destiner to intend, be used
+1089 causer to cause;
+to chat
+1093 interroger to question, interrogate
+1095 provoquer to provoke
+1097 ramener to bring back, return, take back
+1100 concevoir to conceive
+1101 procéder to proceed
+1104 acquérir to acquire
+1106 convenir to agree, be suitable
+1108 examiner to examine
+1110 mesurer to measure
+1113 impliquer to imply, implicate
+1118 combattre to fight
+1120 comporter to comprise, include;
+to behave
+1122 mériter to deserve, merit
+1123 emprunter to borrow
+1125 traduire to translate
+1128 emporter to take, remove
+1135 doubler to double, pass;
+to dub
+1138 tendre to tighten;
+to extend, stretch, tender
+1143 évoquer to recall, evoke
+1144 fonctionner to function, work
+1147 accuser to accuse
+1152 distribuer to distribute, give out
+1154 prétendre to pretend
+1171 entreprendre to begin, start, undertake
+1173 étendre to spread out, stretch out
+1176 décrire to describe
+1185 entretenir to maintain
+1186 habiter to live
+1189 accueillir to welcome, greet, accommodate
+1190 libérer to free, liberate, release
+1193 rire to laugh
+1196 commettre to commit
+1201 enlever to remove
+1202 jeter to throw
+1207 prévenir to prevent, warn;
+to notify
+1209 analyser to analyse
+1212 témoigner to testify
+1213 sauver to rescue, save
+1218 remercier to thank
+1220 réclamer to ask for, call for;
+to claim
+1230 recueillir to collect, gather
+1231 fabriquer to manufacture, invent, make
+1236 vérifier to check, verify
+1238 enregistrer to record, check in
+1248 voter to vote
+1251 nourrir to feed, nourish
+1256 rechercher to search for
+1260 garantir to guarantee
+1268 pratiquer to practice
+1272 bénéficier to benefit
+1274 revoir to see again, revise
+1280 renforcer to reinforce, strengthen
+1283 qualifier to qualify
+1285 dégager to free, clear
+1297 surveiller to watch
+1301 accomplir to accomplish
+1302 décevoir to disappoint
+1314 inspirer to inspire
+1315 opérer to operate, carry out
+1320 joindre to join
+1329 rapprocher to bring closer, get closer
+1331 fier to rely on
+1338 manger to eat
+1339 soulever to lift up
+1348 survivre to survive
+1354 gérer to manage
+1356 informer to inform
+1358 attacher to attach
+1359 renouveler to renew
+1360 asseoir to sit
+1363 renoncer to give up, renounce
+1370 plaindre to pity, feel sorry for, complain
+1377 aboutir to succeed, end up at
+1378 visiter to visit
+1383 échouer to fail
+1384 désirer to desire
+1389 inquiéter to worry, disturb
+1396 affecter to affect
+1398 ressembler to look like, resemble
+1400 supporter to support, endure
+1407 favoriser to favor
+1413 précéder to precede
+1415 correspondre to correspond
+1419 transmettre to forward, transmit
+1422 associer to associate
+1426 identifier to identify
+1434 encourager to encourage
+1436 dérouler to unwind, enroll
+1439 signaler to indicate, signal
+1446 attribuer to award, grant, attribute
+1447 courir to run
+1450 dénoncer to denounce
+1452 échanger to exchange
+1454 éliminer to eliminate
+1457 exclure to exclude
+1465 élire to elect
+1476 sourire to smile
+1478 suggérer to suggest
+1479 interrompre to interrupt
+1483 unir to unite
+1487 franchir to get over
+1492 écarter to separate, move apart, keep away
+1506 investir to invest
+1507 diminuer to diminish, decrease
+1508 réfugier to take refuge
+1509 entourer to surround
+1514 communiquer to communicate
+1515 prolonger to prolong, extend
+1516 verser to pour, deposit, shed
+1519 démontrer to demonstrate
+1523 accroître to increase
+1532 marcher to walk
+1535 aborder to reach, approach
+1539 tromper to deceive
+1541 éloigner to move away, take away, distance
+1544 évaluer to evaluate
+1553 adapter to adapt
+1560 comparer to compare
+1562 provenir to be from, come from
+1565 céder to give up, give way
+1567 diviser to divide
+1576 approcher to approach
+1581 reprocher to blame, reproach
+1584 peser to weigh
+1590 supprimer to remove, withdraw
+1592 douter to doubt
+1593 ressentir to feel
+1595 consulter to consult
+1601 résumer to summarize, sum up
+1606 hésiter to hesitate
+1610 voler to steal, rob
+1611 résister to resist
+1619 avouer to admit
+1620 saluer to greet, salute
+1630 achever to complete, finish, end
+1634 oser to dare
+1635 rassembler to gather together
+1639 corriger to correct
+1645 prier to pray
+1648 dominer to dominate
+1654 critiquer to criticize
+1658 évoluer to evolve
+1661 percevoir to perceive
+1663 approuver to approve
+1670 relier to connect
+1676 négocier to negotiate
+1678 rêver to dream
+1682 persuader to convince, persuade
+1683 interpréter to interpret
+1686 marier to marry
+1695 introduire to introduce
+1705 descendre to go down, come down
+1712 baser to base
+1718 déployer to deploy, open
+1721 circuler to drive, circulate
+1730 suspendre to suspend, postpone
+1749 féliciter to congratulate
+1764 intégrer to integrate
+1772 financer to finance
+1775 nier to deny
+1778 étonner to astonish, amaze
+1781 accéder to access, reach, attain
+1783 récupérer to get back, recover, recuperate
+1784 doter to endow, provide
+1787 émettre to emit, issue
+1796 pencher to lean, tilt
+1805 mentionner to mention
+1807 distinguer to distinguish
+1808 exploiter to exploit
+1813 faciliter to make easier, facilitate
+1816 veiller to look after, stay up
+1820 chanter to sing
+1823 clore to close
+1831 régner to reign
+1833 ressortir to go out again, come out again, take out again
+1836 dormir to sleep
+1842 rassurer to reassure, calm down
+1853 taire to keep quiet
+1856 progresser to progress
+1858 confronter to confront
+1864 rétablir to restore, re-establish
+1869 compliquer to complicate
+ 1870 assumer to assume
+1872 éprouver to feel, experience
+1879 boire to drink
+1890 foutre to f*ck, shove off
+1891 apercevoir to see, notice
+1892 refléter to reflect
+1893 bouger to move, shift, budge
+1896 isoler to isolate, insolate
+1900 animer to lead, conduct, animate
+1903 préserver to preserve
+1909 exécuter to execute, carry out
+1920 briser to break
+1922 reculer to move back, back up
+1929 transporter to transport, carry
+1930 brûler to burn
+1936 grandir to grow, increase, expand
+1937 élaborer to work out, develop
+1939 illustrer to illustrate
+1941 affronter to confront, face
+1942 éclater to burst, explode
+1946 presser to squeeze, press
+1947 mêler to mingle, mix
+1949 formuler to formulate
+1950 crier to shout, scream, cry out
+1956 élargir to widen, expand
+1958 plonger to dive
+1960 fuir to flee
+1962 varier to vary, change
+1964 inventer to invent
+1971 ordonner to ordain, organize, order
+1974 contester to contest, question
+1979 préoccuper to worry, preoccupy
+1982 multiplier to multiply
+1987 excuser to excuse
+1988 recommander to recommend
+1995 diffuser to diffuse, broadcast
+1998 inclure to include
+2000 combler to fill, fill in, fulfill
+2002 annuler to cancel
+2004 bloquer to block
+2008 guider to guide
+2009 spécialiser to specialize
+2020 détourner to redirect
+2024 blesser to hurt
+2028 reporter to report;
+to postpone
+2034 compléter to complete
+2038 procurer to get, bring
+2039 officier officer
+2041 efforcer to endeavor
+2047 éclairer to light up
+2048 consommer to eat, consume, drink, use, consummate
+2051 dépenser to spend
+2056 détenir to hold, detain
+2061 cultiver to cultivate, grow
+2063 gouverner to govern, rule, steer, helm
+2064 jouir to enjoy
+2065 parcourir to cover, travel
+2070 classer to classify, file, grade, rate
+2079 renverser to knock down, turn over, overturn
+2081 désoler to upset, sadden
+2082 accélérer to speed up, accelerate
+2084 résider to reside
+2086 dessiner to draw, design
+2087 rompre to break
+2091 armer to arm
+2093 bâtir to build
+2095 résulter to result
+2098 emmener to take
+2104 dresser to draw up, put up, raise
+2106 afficher to display
+2109 survenir to occur, take place, appear
+2114 sauter to jump
+2124 orienter to position, give advice, direct, orientate
+2125 reproduire to reproduce, repeat
+2128 transférer to transfer
+2131 croître to grow, increase
+2132 tolérer to tolerate, access, put up, bear, endure
+2134 enseigner to teach
+2135 rédiger to write, draw up
+2144 contraindre to compel, force
+2145 trancher to cut, sever, settle, decide
+2147 retarder to delay, hold up
+2148 réjouir to delight, rejoice
+2149 punir to punish
+2150 repartir to set off again, start up again
+2152 déclencher to trigger, release, unleash
+2155 écouler to sell, run off, flow out
+2160 coucher to lie down, sleep
+2170 célébrer to celebrate
+2177 hausser to raise
+2185 casser to break
+2190 croiser to cross
+2194 voyager to travel
+2197 répartir to distribute, spread out, share out, divide up
+2199 réveiller to wake up
+2206 songer to dream
+2211 commenter to comment
+2212 inciter to incite, encourage
+2214 nécessiter to require, necessitate
+2219 anticiper to anticipate, foresee, look or think ahead
+2224 avertir to warn
+2228 soigner to treat, look after, take care over
+2235 débarrasser to clear, get rid of
+2251 tarder to delay
+2252 refaire to redo, make again
+2253 pleurer to cry
+2254 débattre to discuss, debate
+2257 lâcher to let go, release
+2267 remporter to take away, win
+2281 recourir to turn to, run again
+2286 engendrer to father, breed, generate
+2297 ralentir to slow down
+2300 requérir to require
+2303 louer to rent, praise
+2315 enfermer to shut
+2316 abattre to pull down, kill, beat
+2320 répandre to spread, spill
+2322 adorer to adore, worship
+2325 entamer to start
+2331 calculer to calculate
+2334 écraser to crush, grind
+2335 enrichir to expand, enrich, make somebody rich
+2345 invoquer to call upon
+2346 compromettre to compromise
+2347 arracher to pull up, tear up
+2351 maîtriser to control, overcome, master
+2352 violer to rape, infringe
+2354 épargner to save, spare
+2360 restreindre to restrict, cut down, decrease
+2364 chasser to hunt, chase away
+2365 dîner to dine
+2367 fréquenter to frequent, go around with
+2368 projeter to plan, project, throw out
+2370 présider to preside
+2375 soupçonner to suspect
+2385 surmonter to overcome, top, surmount
+2399 promouvoir to promote
+2404 confondre to mix up, confuse
+2422 sonner to ring
+2423 protester to protest
+2425 effacer to erase, clean
+2426 débuter to start
+2427 creuser to dig
+2432 programmer to program, schedule
+2433 traîner to drag, pull
+2442 épuiser to exhaust, tire out, wear out, use up
+2448 téléphoner to telephone, phone, call
+2449 serrer to tighten, squeeze
+2450 caractériser to characterize
+2453 intituler to entitle, call
+2457 avérer to prove to be, turn out
+2460 gêner to bother, trouble
+2463 accumuler to accumulate, amass, store, stockpile
+2477 regrouper to group together, regroup
+2482 privilégier to favor
+2486 dater to date
+2487 habituer to accustom, get used to
+2489 recommencer to resume, start again
+2498 influencer to influence
+2503 délivrer to set free, rid, relieve
+2506 aggraver to worsen, aggravate
+2508 alimenter to feed, supply
+2510 équilibrer to balance
+2515 dicter to dictate, lay down
+2519 solliciter to request, solicit, appeal
+2520 convoquer to call, summon
+2526 choquer to shock, offend, shake, disturb
+2536 couler to flow, run, sink
+2538 amuser to amuse
+2544 glisser to slide, slip
+2547 exagérer to exaggerate, overdo
+2551 réviser to review, revise, overhaul
+2553 rater to miss, misfire
+2563 affaiblir to weaken
+2566 envahir to invade, overrun
+2574 négliger to neglect
+2576 plaider to plead
+2577 récompenser to reward, recompense
+2583 réparer to repair, fix, correct, make up
+2594 compenser to compensate for, make up for
+2597 pénétrer to penetrate
+2599 rouler to roll
+2601 heurter to strike, hit, collide
+2605 approprier to adapt, appropriate, take over
+2609 surgir to spring up
+2612 semer to sow, scatter, spread
+2619 succéder to succeed, take over
+2623 fumer to smoke
+2639 déboucher to unblock, uncork
+2646 grimper to climb, go up
+2649 sacrifier to sacrifice, give away
+2652 combiner to combine, devise
+2654 ravir to delight, rob
+2667 détailler to detail
+2675 présumer to presume, assume
+2678 exploser to explode, blow up
+2683 mentir to lie
+2688 revêtir to take on, assume
+2700 repousser to push away, postpone
+2703 nuire to harm
+2707 repérer to spot, pick out, locate, find
+2710 persister to persist, keep up, linger
+2719 embarquer to embark, board, take on board, load
+2724 déjeuner to have lunch
+2725 disputer to dispute
+2730 infliger to inflict
+2732 déranger to disturb, bother
+2735 consentir to consent, agree
+2749 pointer to mark off, clock in, clock out, aim
+2750 assassiner to murder, assassinate
+2752 instaurer to institute, introduce
+2754 revendiquer to claim
+2755 secouer to shake
+2774 ranger to tidy up, put away
+2783 emparer to seize, grab, snatch
+2787 trahir to betray, give away
+2789 admirer to admire
+2797 extraire to extract, mine, quarry, pull out, remove
+2799 filer to spin, run, get out
+2801 accrocher to hang up, hang on, put up
+2812 planter to plant, pitch
+2822 soucier to care about, show concern for
+2829 déplorer to deplore
+2830 mobiliser to mobilize, call up
+2831 encadrer to frame, train
+2837 séduire to seduce, charm, captivate, appeal to
+2838 précipiter to quicken, hasten, precipitate
+2840 piloter to fly, pilot, drive
+2849 vider to empty, vacate
+2851 démarrer to start up
+2852 coordonner to coordinate
+2858 différer to differ, vary
+2859 honorer to honor, do credit to
+2866 découler to ensue, follow
+2869 prédire to predict
+2870 enterrer to bury, lay aside
+2872 recouvrir to cover, hide, conceal
+2883 siéger to sit
+2889 redevenir to become again
+2897 amorcer to bait, prime, begin, initiate
+2898 détester to hate, detest
+2903 simplifier to simplify
+2904 briller to shine
+2909 calmer to calm down
+2912 soulager to relieve, soothe, ease
+2916 bouleverser to upset, distress, disturb, turn upside down
+2919 vaincre to beat, defeat, overcome, conquer
+2921 renseigner to give information, get information
+2928 promener to take for a walk, go for a walk
+2932 arranger to arrange
+2934 danser to dance
+2936 passionner to fascinate, grip
+2939 généraliser to generalize
+2946 défaire to undo, dismantle, strip, break up
+2950 vouer to devote, dedicate to, vow to
+2962 pardonner to forgive, excuse
+2963 collaborer to collaborate, contribute
+2965 tester to test
+2966 proclamer to proclaim, declare
+2973 coller to stick, paste
+2975 approfondir to deepen, make deeper, go further into
+2981 hériter to inherit
+2984 souffler to blow, puff
+2989 mélanger to mix, mix up, confuse
+2991 enfoncer to ram, drive in, hammer in, sink in
+2996 deviner to guess, solve
+2997 tracer to draw, write, mark out
+2999 baiser to kiss
+3000 user to wear out, wear away, use up
+3008 relancer to throw back, restart, relaunch
+3011 poster to post, mail
+3019 dispenser to exempt, avoid
+3021 aligner to lign up, align
+3022 absorber to absorb, remove, take up, take over
+3025 dévoiler to unveil, reveal, disclose
+3027 freiner to brake, slow down
+3028 rattraper to recapture, recover, catch up, make up for
+3030 régir to govern
+3033 éteindre to extinguish, put out, turn off
+3037 débarquer to unload, land, disembark
+3040 respirer to breath
+3043 équiper to equip, kit out, fit out, tool up
+3051 agiter to shake, disturb
+3055 impressionner to impress, upset
+3060 loger to put up, accommodate, stay, find accommodation
+3063 stimuler to stimulate
+3071 déborder to overflow, boil over, go out, go over
+3077 dissimuler to conceal, hide
+3086 spécifier to specify
+3092 imprimer to print, print out
+3093 abuser to abuse, mislead, take advantage
+3096 jurer to swear
+3102 embrasser to kiss, embrace
+3106 décrocher to take down, take off, pick up, lift
+3107 rembourser to reimburse, pay back, pay off, repay
+3108 adhérer to stick to, support, join, be a member of
+3112 retomber to fall again, fall down again
+3113 pourvoir to provide, equip, supply, furnish
+3119 émaner to issue from, emanate from, come from, radiate from
+3123 prévaloir to prevail
+3127 effondrer to collapse, cave in, fall down
+3128 apprêter to prepare, get ready, dress
+3130 cibler to target
+3136 épouser to marry, wed
+3156 accentuer to stress, emphasize, become more pronounced
+3157 rattacher to attach, join, tie
+3159 contracter to contract, take out, tense
+3161 subsister to subsist, remain
+3169 allumer to switch on, light up, turn on
+3171 disperser to scatter, spread, disperse
+3172 déchirer to tear up, tear, rip
+3178 contourner to bypass, go round
+3191 conquérir to conquer
+3194 motiver to justify, account for, motivate
+3195 plier to fold, fold up, fold back, bend
+3204 explorer to explore, investigate, examine
+3209 abaisser to pull down, lower, reduce
+3213 étouffer to suffocate, smother, muffle
+3225 acquitter to acquit, pay, settle, pay off
+3229 fatiguer to tire, get tired
+3231 abriter to shelter, shade
+3235 décourager to discourage, dishearten, lose heart
+3239 détacher to untie, detach, remove
+3257 applaudir to clap, applaud
+3267 référer to refer, consult, refer to
+3268 obéir to obey, comply with, respond to
+3270 taper to beat, slam, bang, type
+3275 fêter to celebrate
+3281 préconiser to recommend, advocate
+3288 vanter to vaunt, boast, brag
+3289 coincer to jam, hinder, get stuck
+3297 convertir to convert
+3300 atténuer to lessen, diminish, dim, subdue, reduce
+3310 brancher to plug in, connect
+3319 redonner to give back, return, give more
+3320 assortir to match, accompany
+3326 restaurer to restore, feed
+3335 moquer to mock, make fun of
+3336 allier to ally, match, unite
+3342 vieillir to grow old
+3351 emprisonner to imprison, jail, put in jail, trap
+3360 redouter to dread, fear
+3364 contredire to contradict
+3368 redresser to straighten, set right, redress, turn around
+3370 ramasser to pick up, collect, gather
+3372 acheminer to forward, dispatch, transport
+3380 recruter to recruit
+3381 conformer to model, conform
+3384 délibérer to deliberate, debate
+3388 puiser to draw, take
+3391 ajuster to adjust, alter, aim, aim at
+3392 æuvrer to work
+3406 conférer to confer
+3409 interpeller to call out to, question
+3416 troubler to disturb, disrupt, cloud
+3427 dériver to divert, derive
+3428 évacuer to evacuate, clear
+3431 fouiller to search, frisk, go through, rummage through
+3435 cerner to surround, encircle, delimit
+3440 induire to infer, induce, result in, lead to
+3444 boucler to fasten, loop, resolve
+3447 déléguer to delegate
+3449 miner to mine, erode
+3451 gonfler to inflate, blow up, swell
+3456 comparaître to appear
+3461 instituer to introduce, impose, establish, institute
+3472 administrer to manage, run, administer;
+to give
+3474 démissionner to resign
+3475 racheter to repurchase, buy back, redeem
+3480 ennuyer to bore, worry, bother
+3483 manipuler to handle, manipulate
+3484 peiner to toil, labor, struggle
+3491 regagner to win again, regain, get back, make up
+3496 méfier to distrust, mistrust
+3503 laver to wash, clean
+3505 faillir to have almost, fail, fail to
+3514 coter to quote, rate
+3526 geler to freeze, ice over, suspend
+3527 défiler to unthread, parade
+3536 aspirer to breathe in, inhale, aspire to
+3541 énoncer to state, set out, express
+3552 peindre to paint, depict, portray
+3561 déceler to discover, detect
+3564 acharner to go at fiercely and unrelentingly
+3571 assimiler to assimilate, take in
+3574 incarner to embody, incarnate
+3575 opter to opt, decide
+3576 habiller to dress, get dressed
+3580 reconstruire to rebuild, reconstruct
+3589 décréter to declare, decree
+3595 coïncider to coincide, correspond
+3597 ménager to handle, arrange, domestic
+3602 guérir to cure, heal, get better
+3605 contaminer to contaminate, infect
+3618 débrouiller to untangle, sort out, manage, get by
+3620 générer to generate
+3623 virer to turn, change, transfer, kick out
+3626 perturber to disrupt, disturb
+3640 abolir to abolish, do away with
+3644 percer to pierce, drill, break into
+3655 implanter to implant, set up, establish
+3658 crever to burst, puncture
+3666 prescrire to order, command, prescribe, stipulate
+3667 exhorter to exhort, urge
+3670 apaiser to calm, appease, calm down
+3671 sélectionner to select
+3674 paralyser to paralyze
+3678 suicider to commit suicide
+3687 balayer to sweep up, sweep out
+3688 peupler to populate, inhabit
+3693 abstenir to abstain, refrain
+3695 expulser to expel, evict, deport, throw out
+3696 resserrer to tighten up, strengthen
+3702 plancher to floor
+3710 encaisser to receive, collect, cash
+3711 déduire to deduct, deduce, infer, figure out
+3712 baptiser to name, christen, baptize
+3718 défier to challenge, defy, distrust
+3725 réformer to re-form, reform, discharge
+3728 reléguer to relegate
+3734 contrer to counter
+3742 imiter to imitate
+3743 embaucher to hire
+3751 décliner to decline, refuse, turn down
+3755 piquer to sting, bite, prick, be hot;
+to steal
+3759 refermer to close again, shut again, close up
+3763 reconstituer to reconstitute, restore, reconstruct
+3771 dépêcher to dispatch, send, hurry
+3772 démentir to deny, refute, contradict
+3788 endormir to put to sleep, fall asleep
+3792 récolter to harvest, gather
+3802 tailler to cut, carve, engrave, sharpen, trim
+3804 enfuir to run away, flee
+3809 décéder to die, pass away, pass on
+3811 enquêter to investigate, hold inquiry, conduct a survey
+3813 allonger to lengthen, extend, stretch out
+3824 redire to say again, repeat
+3826 torturer to torture
+3828 effrayer to frighten, scare
+3833 brandir to brandish, wield, wave
+3834 repenser to rethink
+3840 insulter to insult
+3855 masquer to mask, conceal, put on a mask
+3859 prôner to laud, extol, advocate, commend
+3863 expédier to send, dispatch
+3864 axer to center
+3865 propager to propagate, spread
+3866 rectifier to rectify, correct
+3870 émouvoir to move, touch
+3874 alléger to lighten, alleviate
+3887 nettoyer to clean
+3897 attester to attest, confirm
+3898 attraper to catch, get, pick up
+3900 ruiner to ruin, bankrupt
+3903 incorporer to incorporate, insert, merge
+3904 débloquer to free, unfreeze, unjam, release, unblock
+3905 ficher to file;
+to make fun of, not care, not give a damn
+3915 rallier to rally, win over, join
+3917 barrer to close, block, bar, cross
+3918 réaffirmer to reaffirm, reassert
+3919 assigner to assign, allocate, attach, attribute
+3928 concerter to devise, consult
+3929 désespérer to despair
+3933 essuyer to wipe, dry, mop, dust
+3934 exporter to export
+3935 étaler to spread, display, apply
+3936 reconduire to renew, drive back
+3941 bousculer to knock over, knock into
+3942 ériger to erect, set up
+3945 planifier to plan
+3959 fondre to melt, merge
+3970 insérer to insert
+3981 haïr to detest, hate, abhor
+3983 souscrire to subscribe
+3988 concilier to reconcile
+3991 sombrer to darken;
+to sink, lapse
+3999 harceler to harass, plague
+4006 planer to glide, soar
+4008 dédier to dedicate
+4016 hurler to scream, yell
+4022 industrialiser to industrialize
+4026 coopérer to cooperate
+4034 modérer to restrain, moderate, reduce
+4043 tâcher to endeavor
+4058 léguer to bequeath, hand down, pass on
+4059 prélever to impose, levy, withdraw, remove
+4060 noyer to drown, flood, blur, water down
+4062 détecter to detect
+4063 capter to pick up, capture, tap
+4067 voiler to veil
+4070 envoler to fly away, fly off, take off
+4072 activer to activate, speed up, stoke, get moving
+4076 naviguer to navigate, sail
+4079 alerter to alert, inform, warn
+4099 émerger to emerge, rise up, come out
+4100 instruire to teach, educate, inform
+4104 déguiser to disguise
+4109 soustraire to substract, remove, shield, escape from
+4115 téléviser to televise
+4116 consolider to strengthen, reinforce
+4121 coder to code, encode
+4139 découper to carve, cut,
+4142 dégrader to degrade, debase, damage, erode
+4155 inverser to reverse, invert
+4160 stabiliser to stabilize
+4162 centrer to center
+4166 corrompre to corrupt, bribe
+4169 couronner to crown, award
+4170 relire to reread, proofread
+4171 perpétuer to perpetuate, carry on
+4177 omettre to leave out, miss out, omit
+4184 massacrer to slaughter, massacre
+4187 attarder to linger
+4188 englober to include, encompass, incorporate
+4189 grossir to get larger
+4198 ratifier to ratify
+4202 aviser to notice, advise
+4205 parier to bet
+4211 sanctionner to sanction, punish, approve
+4213 détendre to release, slacken, loosen, relax
+4217 défavoriser to put at a disadvantage
+4223 pêcher to fish, go fishing
+4225 trembler to shiver, tremble, shake, flicker
+4227 civiliser to civilize
+4232 octroyer to grant, bestow
+4241 contacter to contact, get in touch with
+4245 chier to sh*t, piss off, get pissed off
+4256 replier to fold, roll up, fold up, withdraw
+4261 avaler to swallow
+4270 mépriser to scorn, look down, spurn, disdain
+4280 chiffrer to put a figure to, assess, quantify, number
+4292 mordre to bite, overlap into
+4313 ébranler to shake, rattle
+4315 anéantir to annihilate, wipe out, ruin, vanish
+4319 économiser to save, save on, conserve
+4320 tisser to weave
+4329 bombarder to bomb
+4330 éveiller to arouse, stimulate, awaken
+4343 symboliser to symbolize
+4344 substituer to substitute
+4347 chuter to fall
+4349 basculer to topple, fall over, knock off
+4354 alourdir to weigh down, make heavy
+4356 sévir to act ruthlessly, be rife
+4358 piéger to trap, booby-trap
+4360 pendre to hang down
+4368 incliner to tilt, tend towards
+4370 révolter to revolt, rebel, outrage
+4378 bannir to banish, ban
+4382 miser to bet, stake
+4386 déformer to bend, distort, deform
+4390 parer to adorn, put on;
+to ward off, parry
+4392 handicaper to handicap
+4393 filmer to film, shoot
+4397 imputer to impute to, attribute to
+4398 plaisanter to joke
+4400 desservir to clear, go against, harm, serve
+4405 ôter to remove, take away, take off, take out
+4412 purger to purge, bleed, drain
+4413 fâcher to anger, make angry, get angry
+4414 repasser to cross again, retake, show again, iron
+4425 dissoudre to dissolve, disband, break up
+4434 relâcher to loosen, release, let go
+4441 goûter to taste, snack
+4442 renier to disown, repudiate, go back on
+4448 entraver to hinder, hamper, get in the way of
+4449 sous-estimer to underestimate
+4465 véhiculer to transport, convey
+4466 répliquer to reply
+4469 advenir to happen that, happen to
+4470 immigrer to immigrate
+4488 contrarier to annoy, bother, thwart
+4489 nouer to knot, tie
+4492 improviser to improvise
+4503 initier to initiate, introduce
+4509 dissiper to dispel, disperse, clear away
+4511 liquider to liquidate, sell off, clear
+4517 entrevoir to make out, catch a glimpse of, foresee
+4518 stipuler to state, stipulate, specify
+4519 remédier to cure, remedy, put right
+4520 flotter to float, hang, stream
+4528 éclaircir to brighten up, clear up
+4532 bosser to work, bash on
+4533 articuler to articulate
+4537 amplifier to amplify, magnify, expand
+4546 restituer to return, restore, refund
+4548 balancer to swing, sway
+4565 appréhender to dread, apprehend
+4575 borner to limit, confine
+4576 triompher to triumph, beat
+4577 concrétiser to materialize
+4580 dérober to steal, hide
+4586 pleuvoir to rain
+4587 déplaire to displease, be unhappy
+4593 diversifier to vary, diversify
+4597 pénaliser to penalize, punish
+4604 envelopper to wrap, surround, veil
+4608 baigner to bathe, wash, get a bath, go for a swim
+4611 déménager to move
+4613 photographier to photograph
+4615 moderniser to modernize
+4617 incomber to be incumbent upon
+4619 équivaloir to be equivalent, amount to
+4620 différencier to differenciate
+4623 gâcher to waste, spoil
+4627 relater to relate, recount
+4631 rayer to scratch, streak, stripe;
+to erase, strike out
+4634 enchaîner to chain up, connect, string together
+4637 copier to copy, reproduce
+4638 inculper to charge
+4646 harmoniser to harmonize, harmonize with
+4648 rouvrir to reopen
+4656 venger to avenge, take revenge
+4663 obséder to obsess, haunt
+4673 réconcilier to reconcile
+4676 emmerder to bug, bother
+4682 brouiller to mix-up, confuse, scramble
+4686 hanter to haunt
+4689 lasser to tire, weary, grow weary
+4690 influer to influence, have an influence on
+4693 stopper to stop, halt
+4702 supplier to beg, implore
+4704 camoufler to cover up, conceal, camouflage
+4708 figer to clot, coagulate, congeal, set
+4717 escompter to discount;
+to expect
+4724 épanouir to bloom, blossom
+4725 minimiser to minimize, play down
+4730 murmurer to murmur
+4732 décerner to award, give, issue
+4733 replacer to replace, put back
+4734 vêtir to clothe, dress, put on
+4738 enchanter to delight, enchant, rejoice
+4744 taxer to tax
+4753 dévouer to devote, sacrifice oneself
+4754 hâter to quicken, hasten
+4757 boucher to fill in, get clogged up
+4766 exiler to exile
+4771 droguer to drug, take drugs
+4772 connecter to connect, go on-line
+4777 intimider to intimidate
+4779 forger to forge, contrive, make up
+4780 périr to perish
+4791 réprimer to suppress, repress
+4796 rémunérer to remunerate, pay
+4797 fasciner to fascinate
+4801 décharger to unload
+4802 excéder to exceed
+4803 blâmer to blame, reprimand
+4810 concéder to grant, concede
+4811 retrancher to deduct, remove;
+to entrench
+4812 renfermer to contain, shut, lock, enclose
+4824 inaugurer to unveil, open
+4837 maltraiter to manhandle, ill-treat, misuse, slight
+4847 réitérer to reiterate, repeat
+4848 énumérer to enumerate
+4852 guetter to watch over, watch out for
+4853 frustrer to frustrate
+4856 questionner to question
+4857 injecter to inject
+4861 caresser to fondle, caress
+4865 écrier to exclaim, cry out
+4890 militer to militate
+4893 craquer to creak, squeak, crackle, give in, strike
+4894 clarifier to clarify
+4906 claquer to flap, bang, slam, snap
+4908 buter to stumble, trip, run into, prop up, score
+4914 exciter to arouse, waken, excite, turn on
+4921 capturer to capture, catch
+4923 allouer to allocate
+4924 scandaliser to shock, scandalize
+4927 empresser to bustle about, hasten to do
+4928 inonder to flood
+4929 réglementer to regulate, control
+4930 sonder to probe, poll, sound out
+4939 ravager to ravage, devastate
+4942 ensuivre to follow, result, ensue
+4944 ajourner to adjourn, defer, postpone
+4951 ancrer to anchor
+4952 raccrocher to hang up
+4956 confiner to confine
+4957 agrandir to enlarge, extend
+4958 occasionner to cause, give rise to
+4963 cuire to cook, bake, roast
+4964 raser to shave, raze
+4966 revivre to live again, come back life, revive
+4974 hisser to hoist, raise up
+4975 agréer to accept, approve of
+4979 décoller to take off;
+to loosen, unstick
+4982 dépouiller to skin, strip away, deprive;
+to analyze
+4984 aménager to develop, plan, fit, adjust
+4994 rigoler to laugh
+4997 expérimenter to experiment
+4998 détériorer to deteriorate
+5000 écrouler to collapse, tumble

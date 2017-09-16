@@ -4,18 +4,14 @@
 import java.io.*;
 import java.util.*;
 
-
 public class Format {
 
     public static void main(String[] args) {
 
-        //String myFile = "french_test_v01_UTF-8.txt";
         String myFile = "french_full_v01_UTF-8.txt";
-
 
         String line = null;
         Set<String> wordSet = new HashSet<String>();
-
 
         try {
             File file = new File(myFile);
@@ -26,7 +22,6 @@ public class Format {
 
             StringBuffer outputStringBuffer = new StringBuffer();
             outputStringBuffer.delete(0, outputStringBuffer.length());
-
 
             while ((line = bufferedReader.readLine()) != null) {
 
@@ -53,7 +48,6 @@ public class Format {
                     }
 
                     outputStringBuffer.append(rank + ",");
-                    //outputStringBuffer.append(line.substring(0, spaceIndex)+",");
 
                     // Append French Word
                     outputStringBuffer.append(line.split(" ")[1] + ",");
@@ -67,7 +61,6 @@ public class Format {
                             verb = verb.substring(0, verb.length() - 1);
                         }
                         outputStringBuffer.append(line.split(" ")[2] + " " + verb);
-
                     } else {
                         String definition = line.split(" ")[2];
 
@@ -78,16 +71,12 @@ public class Format {
                         if (definition.substring(definition.length() - 1).equals(";")) {
                             definition = definition.substring(0, definition.length() - 1);
                         }
-
                         outputStringBuffer.append(definition);
                     }
 
                     wordSet.add(outputStringBuffer.toString());
                     outputStringBuffer.delete(0, outputStringBuffer.length());
-
                 }
-
-
             }
 
 
@@ -108,7 +97,6 @@ public class Format {
                 if (!firstIteration) {
                     previousRank = itr.previous().substring(0,5);
                     itr.next();
-                    //itr.next();
                 } else {
                     previousRank = "No previous rank";
                 }
@@ -119,19 +107,11 @@ public class Format {
                 if (extraDef) {
                     itr.remove();
                 }
-
                 firstIteration = false;
-
-                //System.out.println(previousRank);
-
             }
-
-            //BufferedWriter writer = new BufferedWriter(new FileWriter(new File("french_full_v01_formatted.csv")));
 
             BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(
                     new FileOutputStream("french_full_v01_formatted.txt"), "UTF-8"));
-
-
 
             // Write output
             for (String item : csvRows) {

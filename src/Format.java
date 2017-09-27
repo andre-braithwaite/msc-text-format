@@ -8,7 +8,9 @@ public class Format {
 
     public static void main(String[] args) {
 
-        String myFile = "french_full_v01_UTF-8.txt";
+        //String myFile = "french_full_v01_UTF-8.txt";
+        String myFile = args[0];
+        String outputName = myFile.substring(0, myFile.length() - 4) + "_FORMATTED.csv";
 
         String line = null;
         Set<String> wordSet = new HashSet<String>();
@@ -111,7 +113,7 @@ public class Format {
             }
 
             BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(
-                    new FileOutputStream("french_full_v01_formatted.txt"), "UTF-8"));
+                    new FileOutputStream(outputName), "UTF-8"));
 
             // Write output
             for (String item : csvRows) {
